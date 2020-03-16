@@ -1,0 +1,1217 @@
+--2020-03-15 17:01:01--  http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+正在解析主机 www.cs.toronto.edu (www.cs.toronto.edu)... 128.100.3.30
+正在连接 www.cs.toronto.edu (www.cs.toronto.edu)|128.100.3.30|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度： 170498071 (163M) [application/x-gzip]
+正在保存至: “cifar-10-python.tar.gz”
+
+cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 1h 59mcifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 0m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 1m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 2m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 3m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 4m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 5m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 5m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 5m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 5m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 5m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 5m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 5m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 5m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 5m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 5m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 5m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 5m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 5m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 5m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    剩余 2h 5m cifar-10-python.tar  64%[===========>        ] 104.26M  --.-KB/s    用时 3h 43m
+
+2020-03-15 20:45:50 (7.96 KB/s) - 在 109323056/170498071 字节处发生读取错误 (连接超时)。 重试中。
+
+--2020-03-15 20:45:51--  (尝试次数： 2)  http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+正在连接 www.cs.toronto.edu (www.cs.toronto.edu)|128.100.3.30|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 206 Partial Content
+长度： 170498071 (163M)，剩余 61175015 (58M) [application/x-gzip]
+正在保存至: “cifar-10-python.tar.gz”
+
+        [ 跳过 106750K ]
+106750K ,,,,,,,,,, .......... .......... .......... .......... 64% 53.6K 23m39s
+106800K .......... .......... .......... .......... .......... 64% 34.4K 26m36s
+106850K .......... .......... .......... .......... .......... 64%  201K 18m48s
+106900K .......... .......... .......... .......... .......... 64%  112K 16m10s
+106950K .......... .......... .......... .......... .......... 64% 53.4K 16m39s
+107000K .......... .......... .......... .......... .......... 64%  116M 13m46s
+107050K .......... .......... .......... .......... .......... 64% 79.6K 13m34s
+107100K .......... .......... .......... .......... .......... 64% 90.0K 13m13s
+107150K .......... .......... .......... .......... .......... 64% 77.6K 13m9s
+107200K .......... .......... .......... .......... .......... 64% 78.9K 13m5s
+107250K .......... .......... .......... .......... .......... 64% 79.0K 13m1s
+107300K .......... .......... .......... .......... .......... 64% 95.8K 12m47s
+107350K .......... .......... .......... .......... .......... 64% 68.0K 12m54s
+107400K .......... .......... .......... .......... .......... 64% 63.3K 13m5s
+107450K .......... .......... .......... .......... .......... 64% 86.9K 12m57s
+107500K .......... .......... .......... .......... .......... 64% 70.3K 13m0s
+107550K .......... .......... .......... .......... .......... 64% 83.3K 12m55s
+107600K .......... .......... .......... .......... .......... 64%  118K 12m39s
+107650K .......... .......... .......... .......... .......... 64% 33.8K 13m31s
+107700K .......... .......... .......... .......... .......... 64% 39.8K 14m4s
+107750K .......... .......... .......... .......... .......... 64% 62.5K 14m8s
+107800K .......... .......... .......... .......... .......... 64% 95.7K 13m56s
+107850K .......... .......... .......... .......... .......... 64%  112K 13m42s
+107900K .......... .......... .......... .......... .......... 64% 51.1K 13m54s
+107950K .......... .......... .......... .......... .......... 64%  225K 13m31s
+108000K .......... .......... .......... .......... .......... 64% 57.5K 13m38s
+108050K .......... .......... .......... .......... .......... 64% 57.8K 13m44s
+108100K .......... .......... .......... .......... .......... 64%  105K 13m34s
+108150K .......... .......... .......... .......... .......... 64% 70.2K 13m34s
+108200K .......... .......... .......... .......... .......... 65% 51.6K 13m44s
+108250K .......... .......... .......... .......... .......... 65%  119K 13m32s
+108300K .......... .......... .......... .......... .......... 65%  183K 13m16s
+108350K .......... .......... .......... .......... .......... 65% 61.0K 13m20s
+108400K .......... .......... .......... .......... .......... 65% 58.6K 13m25s
+108450K .......... .......... .......... .......... .......... 65% 74.6K 13m24s
+108500K .......... .......... .......... .......... .......... 65% 54.9K 13m30s
+108550K .......... .......... .......... .......... .......... 65% 54.3K 13m36s
+108600K .......... .......... .......... .......... .......... 65%  203K 13m22s
+108650K .......... .......... .......... .......... .......... 65% 28.4K 13m53s
+108700K .......... .......... .......... .......... .......... 65%  193K 13m39s
+108750K .......... .......... .......... .......... .......... 65% 34.0K 13m59s
+108800K .......... .......... .......... .......... .......... 65%  204K 13m45s
+108850K .......... .......... .......... .......... .......... 65% 24.4K 14m21s
+108900K .......... .......... .......... .......... .......... 65%  193K 14m7s
+108950K .......... .......... .......... .......... .......... 65% 40.8K 14m19s
+109000K .......... .......... .......... .......... .......... 65% 65.4K 14m19s
+109050K .......... .......... .......... .......... .......... 65% 50.2K 14m24s
+109100K .......... .......... .......... .......... .......... 65% 49.5K 14m29s
+109150K .......... .......... .......... .......... .......... 65% 66.8K 14m28s
+109200K .......... .......... .......... .......... .......... 65% 33.6K 14m44s
+109250K .......... .......... .......... .......... .......... 65%  137M 14m26s
+109300K .......... .......... .......... .......... .......... 65% 49.6K 14m31s
+109350K .......... .......... .......... .......... .......... 65%  102K 14m24s
+109400K .......... .......... .......... .......... .......... 65% 32.4K 14m40s
+109450K .......... .......... .......... .......... .......... 65% 40.8K 14m49s
+109500K .......... .......... .......... .......... .......... 65%  401K 14m35s
+109550K .......... .......... .......... .......... .......... 65% 82.1K 14m31s
+109600K .......... .......... .......... .......... .......... 65% 51.7K 14m34s
+109650K .......... .......... .......... .......... .......... 65% 40.4K 14m42s
+109700K .......... .......... .......... .......... .......... 65% 64.0K 14m42s
+109750K .......... .......... .......... .......... .......... 65% 53.5K 14m44s
+109800K .......... .......... .......... .......... .......... 65% 52.7K 14m46s
+109850K .......... .......... .......... .......... .......... 66% 45.3K 14m51s
+109900K .......... .......... .......... .......... .......... 66% 52.6K 14m53s
+109950K .......... .......... .......... .......... .......... 66% 26.7K 15m11s
+110000K .......... .......... .......... .......... .......... 66% 47.8K 15m15s
+110050K .......... .......... .......... .......... .......... 66% 89.4K 15m10s
+110100K .......... .......... .......... .......... .......... 66% 49.9K 15m12s
+110150K .......... .......... .......... .......... .......... 66% 40.3K 15m18s
+110200K .......... .......... .......... .......... .......... 66% 39.8K 15m25s
+110250K .......... .......... .......... .......... .......... 66%  105K 15m18s
+110300K .......... .......... .......... .......... .......... 66% 52.7K 15m20s
+110350K .......... .......... .......... .......... .......... 66% 38.7K 15m26s
+110400K .......... .......... .......... .......... .......... 66%  101K 15m20s
+110450K .......... .......... .......... .......... .......... 66% 44.2K 15m24s
+110500K .......... .......... .......... .......... .......... 66% 40.7K 15m29s
+110550K .......... .......... .......... .......... .......... 66% 79.4K 15m25s
+110600K .......... .......... .......... .......... .......... 66% 31.7K 15m35s
+110650K .......... .......... .......... .......... .......... 66% 31.4K 15m45s
+110700K .......... .......... .......... .......... .......... 66% 37.6K 15m51s
+110750K .......... .......... .......... .......... .......... 66% 47.2K 15m53s
+110800K .......... .......... .......... .......... .......... 66% 35.5K 16m0s
+110850K .......... .......... .......... .......... .......... 66% 54.4K 16m0s
+110900K .......... .......... .......... .......... .......... 66% 50.0K 16m1s
+110950K .......... .......... .......... .......... .......... 66% 41.5K 16m4s
+111000K .......... .......... .......... .......... .......... 66% 22.5K 16m21s
+111050K .......... .......... .......... .......... .......... 66% 81.6K 16m16s
+111100K .......... .......... .......... .......... .......... 66% 37.0K 16m22s
+111150K .......... .......... .......... .......... .......... 66% 30.7K 16m30s
+111200K .......... .......... .......... .......... .......... 66% 43.0K 16m32s
+111250K .......... .......... .......... .......... .......... 66% 60.9K 16m30s
+111300K .......... .......... .......... .......... .......... 66% 37.0K 16m35s
+111350K .......... .......... .......... .......... .......... 66% 30.4K 16m43s
+111400K .......... .......... .......... .......... .......... 66% 40.0K 16m46s
+111450K .......... .......... .......... .......... .......... 66% 35.1K 16m51s
+111500K .......... .......... .......... .......... .......... 66% 29.9K 16m59s
+111550K .......... .......... .......... .......... .......... 67% 20.7K 17m15s
+111600K .......... .......... .......... .......... .......... 67% 41.0K 17m17s
+111650K .......... .......... .......... .......... .......... 67% 38.3K 17m20s
+111700K .......... .......... .......... .......... .......... 67% 18.1K 17m39s
+111750K .......... .......... .......... .......... .......... 67% 25.1K 17m49s
+111800K .......... .......... .......... .......... .......... 67% 23.8K 18m0s
+111850K .......... .......... .......... .......... .......... 67% 87.6K 17m55s
+111900K .......... .......... .......... .......... .......... 67% 27.0K 18m3s
+111950K .......... .......... .......... .......... .......... 67% 32.6K 18m8s
+112000K .......... .......... .......... .......... .......... 67% 27.9K 18m15s
+112050K .......... .......... .......... .......... .......... 67% 17.9K 18m32s
+112100K .......... .......... .......... .......... .......... 67% 30.7K 18m37s
+112150K .......... .......... .......... .......... .......... 67% 36.0K 18m40s
+112200K .......... .......... .......... .......... .......... 67% 25.1K 18m48s
+112250K .......... .......... .......... .......... .......... 67% 25.9K 18m56s
+112300K .......... .......... .......... .......... .......... 67% 22.7K 19m6s
+112350K .......... .......... .......... .......... .......... 67% 26.6K 19m13s
+112400K .......... .......... .......... .......... .......... 67% 23.3K 19m22s
+112450K .......... .......... .......... .......... .......... 67% 25.2K 19m29s
+112500K .......... .......... .......... .......... .......... 67% 18.6K 19m43s
+112550K .......... .......... .......... .......... .......... 67% 16.7K 20m0s
+112600K .......... .......... .......... .......... .......... 67% 27.8K 20m5s
+112650K .......... .......... .......... .......... .......... 67% 16.1K 20m22s
+112700K .......... .......... .......... .......... .......... 67% 21.6K 20m31s
+112750K .......... .......... .......... .......... .......... 67% 22.1K 20m40s
+112800K .......... .......... .......... .......... .......... 67% 16.5K 20m55s
+112850K .......... .......... .......... .......... .......... 67% 23.6K 21m2s
+112900K .......... .......... .......... .......... .......... 67% 21.4K 21m11s
+112950K .......... .......... .......... .......... .......... 67% 19.9K 21m21s
+113000K .......... .......... .......... .......... .......... 67% 25.6K 21m27s
+113050K .......... .......... .......... .......... .......... 67% 25.6K 21m32s
+113100K .......... .......... .......... .......... .......... 67% 20.1K 21m41s
+113150K .......... .......... .......... .......... .......... 67% 23.6K 21m47s
+113200K .......... .......... .......... .......... .......... 68% 16.4K 22m1s
+113250K .......... .......... .......... .......... .......... 68% 16.5K 22m15s
+113300K .......... .......... .......... .......... .......... 68% 19.1K 22m24s
+113350K .......... .......... .......... .......... .......... 68% 19.1K 22m34s
+113400K .......... .......... .......... .......... .......... 68% 22.7K 22m40s
+113450K .......... .......... .......... .......... .......... 68% 20.1K 22m48s
+113500K .......... .......... .......... .......... .......... 68% 23.2K 22m54s
+113550K .......... .......... .......... .......... .......... 68% 15.0K 23m8s
+113600K .......... .......... .......... .......... .......... 68% 25.5K 23m12s
+113650K .......... .......... .......... .......... .......... 68% 15.6K 23m25s
+113700K .......... .......... .......... .......... .......... 68% 14.2K 23m40s
+113750K .......... .......... .......... .......... .......... 68% 13.2K 23m57s
+113800K .......... .......... .......... .......... .......... 68% 18.0K 24m6s
+113850K .......... .......... .......... .......... .......... 68% 14.0K 24m21s
+113900K .......... .......... .......... .......... .......... 68% 16.9K 24m31s
+113950K .......... .......... .......... .......... .......... 68% 20.8K 24m37s
+114000K .......... .......... .......... .......... .......... 68% 20.8K 24m43s
+114050K .......... .......... .......... .......... .......... 68% 16.7K 24m53s
+114100K .......... .......... .......... .......... .......... 68% 17.0K 25m2s
+114150K .......... .......... .......... .......... .......... 68% 13.5K 25m17s
+114200K .......... .......... .......... .......... .......... 68% 19.9K 25m22s
+114250K .......... .......... .......... .......... .......... 68% 13.4K 25m37s
+114300K .......... .......... .......... .......... .......... 68% 17.8K 25m44s
+114350K .......... .......... .......... .......... .......... 68% 16.4K 25m54s
+114400K .......... .......... .......... .......... .......... 68% 18.3K 26m1s
+114450K .......... .......... .......... .......... .......... 68% 20.6K 26m5s
+114500K .......... .......... .......... .......... .......... 68% 18.9K 26m11s
+114550K .......... .......... .......... .......... .......... 68% 26.6K 26m12s
+114600K .......... .......... .......... .......... .......... 68% 24.2K 26m14s
+114650K .......... .......... .......... .......... .......... 68% 25.2K 26m16s
+114700K .......... .......... .......... .......... .......... 68% 34.5K 26m14s
+114750K .......... .......... .......... .......... .......... 68% 33.4K 26m12s
+114800K .......... .......... .......... .......... .......... 68% 24.7K 26m14s
+114850K .......... .......... .......... .......... .......... 69% 34.1K 26m12s
+114900K .......... .......... .......... .......... .......... 69%  126K 26m3s
+114950K .......... .......... .......... .......... .......... 69% 31.7K 26m2s
+115000K .......... .......... .......... .......... .......... 69% 40.3K 25m59s
+115050K .......... .......... .......... .......... .......... 69% 76.8K 25m52s
+115100K .......... .......... .......... .......... .......... 69% 34.8K 25m50s
+115150K .......... .......... .......... .......... .......... 69% 34.4K 25m48s
+115200K .......... .......... .......... .......... .......... 69% 42.0K 25m45s
+115250K .......... .......... .......... .......... .......... 69% 60.7K 25m39s
+115300K .......... .......... .......... .......... .......... 69% 45.9K 25m35s
+115350K .......... .......... .......... .......... .......... 69% 50.9K 25m31s
+115400K .......... .......... .......... .......... .......... 69% 71.8K 25m25s
+115450K .......... .......... .......... .......... .......... 69% 53.5K 25m20s
+115500K .......... .......... .......... .......... .......... 69% 62.2K 25m14s
+115550K .......... .......... .......... .......... .......... 69% 63.3K 25m9s
+115600K .......... .......... .......... .......... .......... 69% 71.2K 25m3s
+115650K .......... .......... .......... .......... .......... 69% 51.5K 24m59s
+115700K .......... .......... .......... .......... .......... 69% 45.2K 24m55s
+115750K .......... .......... .......... .......... .......... 69% 43.7K 24m52s
+115800K .......... .......... .......... .......... .......... 69% 66.6K 24m46s
+115850K .......... .......... .......... .......... .......... 69% 38.9K 24m44s
+115900K .......... .......... .......... .......... .......... 69% 49.0K 24m40s
+115950K .......... .......... .......... .......... .......... 69% 40.1K 24m37s
+116000K .......... .......... .......... .......... .......... 69% 57.6K 24m33s
+116050K .......... .......... .......... .......... .......... 69% 36.5K 24m31s
+116100K .......... .......... .......... .......... .......... 69% 55.1K 24m26s
+116150K .......... .......... .......... .......... .......... 69% 38.2K 24m24s
+116200K .......... .......... .......... .......... .......... 69% 59.3K 24m19s
+116250K .......... .......... .......... .......... .......... 69% 42.6K 24m16s
+116300K .......... .......... .......... .......... .......... 69% 54.8K 24m12s
+116350K .......... .......... .......... .......... .......... 69% 43.2K 24m9s
+116400K .......... .......... .......... .......... .......... 69% 30.4K 24m9s
+116450K .......... .......... .......... .......... .......... 69% 46.6K 24m5s
+116500K .......... .......... .......... .......... .......... 69%  287K 23m57s
+116550K .......... .......... .......... .......... .......... 70% 45.3K 23m54s
+116600K .......... .......... .......... .......... .......... 70% 63.5K 23m50s
+116650K .......... .......... .......... .......... .......... 70% 62.0K 23m45s
+116700K .......... .......... .......... .......... .......... 70% 54.9K 23m41s
+116750K .......... .......... .......... .......... .......... 70% 47.3K 23m38s
+116800K .......... .......... .......... .......... .......... 70% 40.1K 23m35s
+116850K .......... .......... .......... .......... .......... 70% 55.2K 23m31s
+116900K .......... .......... .......... .......... .......... 70% 44.0K 23m29s
+116950K .......... .......... .......... .......... .......... 70% 36.6K 23m27s
+117000K .......... .......... .......... .......... .......... 70% 22.4K 23m29s
+117050K .......... .......... .......... .......... .......... 70% 57.9K 23m25s
+117100K .......... .......... .......... .......... .......... 70% 36.5K 23m24s
+117150K .......... .......... .......... .......... .......... 70% 54.0K 23m20s
+117200K .......... .......... .......... .......... .......... 70% 43.2K 23m17s
+117250K .......... .......... .......... .......... .......... 70% 35.5K 23m16s
+117300K .......... .......... .......... .......... .......... 70% 45.8K 23m13s
+117350K .......... .......... .......... .......... .......... 70% 29.5K 23m13s
+117400K .......... .......... .......... .......... .......... 70% 59.4K 23m9s
+117450K .......... .......... .......... .......... .......... 70% 60.3K 23m5s
+117500K .......... .......... .......... .......... .......... 70% 20.0K 23m8s
+117550K .......... .......... .......... .......... .......... 70% 51.2K 23m5s
+117600K .......... .......... .......... .......... .......... 70% 32.4K 23m4s
+117650K .......... .......... .......... .......... .......... 70% 39.6K 23m2s
+117700K .......... .......... .......... .......... .......... 70% 39.2K 23m0s
+117750K .......... .......... .......... .......... .......... 70% 24.3K 23m1s
+117800K .......... .......... .......... .......... .......... 70% 37.2K 22m59s
+117850K .......... .......... .......... .......... .......... 70% 30.6K 22m59s
+117900K .......... .......... .......... .......... .......... 70% 27.4K 22m59s
+117950K .......... .......... .......... .......... .......... 70% 32.1K 22m58s
+118000K .......... .......... .......... .......... .......... 70% 28.8K 22m58s
+118050K .......... .......... .......... .......... .......... 70% 30.0K 22m58s
+118100K .......... .......... .......... .......... .......... 70% 27.4K 22m58s
+118150K .......... .......... .......... .......... .......... 70% 44.1K 22m56s
+118200K .......... .......... .......... .......... .......... 71% 22.7K 22m57s
+118250K .......... .......... .......... .......... .......... 71% 82.0K 22m53s
+118300K .......... .......... .......... .......... .......... 71% 40.1K 22m50s
+118350K .......... .......... .......... .......... .......... 71% 26.8K 22m51s
+118400K .......... .......... .......... .......... .......... 71% 58.6K 22m47s
+118450K .......... .......... .......... .......... .......... 71% 24.0K 22m48s
+118500K .......... .......... .......... .......... .......... 71% 35.2K 22m47s
+118550K .......... .......... .......... .......... .......... 71% 41.3K 22m45s
+118600K .......... .......... .......... .......... .......... 71% 32.3K 22m44s
+118650K .......... .......... .......... .......... .......... 71% 19.4K 22m47s
+118700K .......... .......... .......... .......... .......... 71% 27.6K 22m47s
+118750K .......... .......... .......... .......... .......... 71% 36.6K 22m45s
+118800K .......... .......... .......... .......... .......... 71% 27.1K 22m45s
+118850K .......... .......... .......... .......... .......... 71% 22.1K 22m47s
+118900K .......... .......... .......... .......... .......... 71% 27.8K 22m47s
+118950K .......... .......... .......... .......... .......... 71% 21.0K 22m49s
+119000K .......... .......... .......... .......... .......... 71% 28.9K 22m49s
+119050K .......... .......... .......... .......... .......... 71% 33.3K 22m48s
+119100K .......... .......... .......... .......... .......... 71% 26.2K 22m48s
+119150K .......... .......... .......... .......... .......... 71% 44.3K 22m46s
+119200K .......... .......... .......... .......... .......... 71% 20.9K 22m48s
+119250K .......... .......... .......... .......... .......... 71% 44.1K 22m45s
+119300K .......... .......... .......... .......... .......... 71% 27.6K 22m45s
+119350K .......... .......... .......... .......... .......... 71% 40.2K 22m43s
+119400K .......... .......... .......... .......... .......... 71% 28.0K 22m43s
+119450K .......... .......... .......... .......... .......... 71% 20.1K 22m45s
+119500K .......... .......... .......... .......... .......... 71% 47.5K 22m42s
+119550K .......... .......... .......... .......... .......... 71% 20.5K 22m44s
+119600K .......... .......... .......... .......... .......... 71% 25.4K 22m45s
+119650K .......... .......... .......... .......... .......... 71% 27.4K 22m44s
+119700K .......... .......... .......... .......... .......... 71% 21.1K 22m46s
+119750K .......... .......... .......... .......... .......... 71% 36.5K 22m45s
+119800K .......... .......... .......... .......... .......... 71% 40.3K 22m42s
+119850K .......... .......... .......... .......... .......... 72% 34.5K 22m41s
+119900K .......... .......... .......... .......... .......... 72% 43.2K 22m38s
+119950K .......... .......... .......... .......... .......... 72% 30.0K 22m38s
+120000K .......... .......... .......... .......... .......... 72% 34.9K 22m36s
+120050K .......... .......... .......... .......... .......... 72% 35.1K 22m34s
+120100K .......... .......... .......... .......... .......... 72% 26.6K 22m34s
+120150K .......... .......... .......... .......... .......... 72% 52.7K 22m31s
+120200K .......... .......... .......... .......... .......... 72% 19.9K 22m33s
+120250K .......... .......... .......... .......... .......... 72% 34.7K 22m32s
+120300K .......... .......... .......... .......... .......... 72% 24.6K 22m32s
+120350K .......... .......... .......... .......... .......... 72% 39.5K 22m30s
+120400K .......... .......... .......... .......... .......... 72% 25.2K 22m30s
+120450K .......... .......... .......... .......... .......... 72% 26.7K 22m30s
+120500K .......... .......... .......... .......... .......... 72% 24.6K 22m31s
+120550K .......... .......... .......... .......... .......... 72% 26.2K 22m31s
+120600K .......... .......... .......... .......... .......... 72% 23.2K 22m32s
+120650K .......... .......... .......... .......... .......... 72% 28.5K 22m31s
+120700K .......... .......... .......... .......... .......... 72% 36.6K 22m29s
+120750K .......... .......... .......... .......... .......... 72% 31.6K 22m28s
+120800K .......... .......... .......... .......... .......... 72% 34.8K 22m26s
+120850K .......... .......... .......... .......... .......... 72% 35.7K 22m25s
+120900K .......... .......... .......... .......... .......... 72% 15.8K 22m29s
+120950K .......... .......... .......... .......... .......... 72% 46.1K 22m26s
+121000K .......... .......... .......... .......... .......... 72% 32.9K 22m25s
+121050K .......... .......... .......... .......... .......... 72% 27.6K 22m24s
+121100K .......... .......... .......... .......... .......... 72% 26.4K 22m24s
+121150K .......... .......... .......... .......... .......... 72% 27.1K 22m24s
+121200K .......... .......... .......... .......... .......... 72% 20.3K 22m25s
+121250K .......... .......... .......... .......... .......... 72% 28.1K 22m25s
+121300K .......... .......... .......... .......... .......... 72% 26.2K 22m24s
+121350K .......... .......... .......... .......... .......... 72% 26.6K 22m24s
+121400K .......... .......... .......... .......... .......... 72% 28.4K 22m23s
+121450K .......... .......... .......... .......... .......... 72% 22.5K 22m24s
+121500K .......... .......... .......... .......... .......... 73% 30.3K 22m23s
+121550K .......... .......... .......... .......... .......... 73% 27.2K 22m23s
+121600K .......... .......... .......... .......... .......... 73% 20.8K 22m24s
+121650K .......... .......... .......... .......... .......... 73% 20.7K 22m25s
+121700K .......... .......... .......... .......... .......... 73% 19.1K 22m27s
+121750K .......... .......... .......... .......... .......... 73% 22.9K 22m28s
+121800K .......... .......... .......... .......... .......... 73% 20.9K 22m29s
+121850K .......... .......... .......... .......... .......... 73% 20.1K 22m30s
+121900K .......... .......... .......... .......... .......... 73% 18.5K 22m32s
+121950K .......... .......... .......... .......... .......... 73% 22.6K 22m33s
+122000K .......... .......... .......... .......... .......... 73% 22.7K 22m33s
+122050K .......... .......... .......... .......... .......... 73% 19.3K 22m35s
+122100K .......... .......... .......... .......... .......... 73% 14.4K 22m39s
+122150K .......... .......... .......... .......... .......... 73% 20.7K 22m40s
+122200K .......... .......... .......... .......... .......... 73% 17.8K 22m42s
+122250K .......... .......... .......... .......... .......... 73% 16.5K 22m45s
+122300K .......... .......... .......... .......... .......... 73% 16.1K 22m47s
+122350K .......... .......... .......... .......... .......... 73% 20.4K 22m48s
+122400K .......... .......... .......... .......... .......... 73% 19.3K 22m50s
+122450K .......... .......... .......... .......... .......... 73% 24.0K 22m50s
+122500K .......... .......... .......... .......... .......... 73% 16.9K 22m52s
+122550K .......... .......... .......... .......... .......... 73% 37.5K 22m50s
+122600K .......... .......... .......... .......... .......... 73% 34.6K 22m48s
+122650K .......... .......... .......... .......... .......... 73% 31.8K 22m46s
+122700K .......... .......... .......... .......... .......... 73% 33.3K 22m45s
+122750K .......... .......... .......... .......... .......... 73% 35.2K 22m43s
+122800K .......... .......... .......... .......... .......... 73% 32.9K 22m41s
+122850K .......... .......... .......... .......... .......... 73% 21.4K 22m42s
+122900K .......... .......... .......... .......... .......... 73% 73.6K 22m38s
+122950K .......... .......... .......... .......... .......... 73% 30.4K 22m36s
+123000K .......... .......... .......... .......... .......... 73% 37.5K 22m34s
+123050K .......... .......... .......... .......... .......... 73% 38.8K 22m32s
+123100K .......... .......... .......... .......... .......... 73% 38.5K 22m30s
+123150K .......... .......... .......... .......... .......... 73% 54.2K 22m26s
+123200K .......... .......... .......... .......... .......... 74% 38.7K 22m24s
+123250K .......... .......... .......... .......... .......... 74% 45.7K 22m21s
+123300K .......... .......... .......... .......... .......... 74% 34.0K 22m20s
+123350K .......... .......... .......... .......... .......... 74% 29.7K 22m18s
+123400K .......... .......... .......... .......... .......... 74% 46.9K 22m16s
+123450K .......... .......... .......... .......... .......... 74% 26.8K 22m15s
+123500K .......... .......... .......... .......... .......... 74% 30.2K 22m14s
+123550K .......... .......... .......... .......... .......... 74% 31.3K 22m12s
+123600K .......... .......... .......... .......... .......... 74% 28.3K 22m11s
+123650K .......... .......... .......... .......... .......... 74% 13.9K 22m15s
+123700K .......... .......... .......... .......... .......... 74% 61.8K 22m11s
+123750K .......... .......... .......... .......... .......... 74% 47.5K 22m8s
+123800K .......... .......... .......... .......... .......... 74% 27.8K 22m8s
+123850K .......... .......... .......... .......... .......... 74% 30.7K 22m6s
+123900K .......... .......... .......... .......... .......... 74% 25.8K 22m6s
+123950K .......... .......... .......... .......... .......... 74% 26.8K 22m5s
+124000K .......... .......... .......... .......... .......... 74% 16.8K 22m7s
+124050K .......... .......... .......... .......... .......... 74% 36.5K 22m5s
+124100K .......... .......... .......... .......... .......... 74% 24.0K 22m4s
+124150K .......... .......... .......... .......... .......... 74% 23.7K 22m4s
+124200K .......... .......... .......... .......... .......... 74% 20.5K 22m5s
+124250K .......... .......... .......... .......... .......... 74% 21.4K 22m5s
+124300K .......... .......... .......... .......... .......... 74% 34.3K 22m3s
+124350K .......... .......... .......... .......... .......... 74% 25.9K 22m2s
+124400K .......... .......... .......... .......... .......... 74% 26.2K 22m2s
+124450K .......... .......... .......... .......... .......... 74% 20.5K 22m2s
+124500K .......... .......... .......... .......... .......... 74% 21.9K 22m2s
+124550K .......... .......... .......... .......... .......... 74% 20.9K 22m3s
+124600K .......... .......... .......... .......... .......... 74% 21.2K 22m3s
+124650K .......... .......... .......... .......... .......... 74% 16.9K 22m4s
+124700K .......... .......... .......... .......... .......... 74% 32.2K 22m3s
+124750K .......... .......... .......... .......... .......... 74% 22.1K 22m3s
+124800K .......... .......... .......... .......... .......... 74% 19.1K 22m4s
+124850K .......... .......... .......... .......... .......... 75% 20.6K 22m4s
+124900K .......... .......... .......... .......... .......... 75% 35.0K 22m2s
+124950K .......... .......... .......... .......... .......... 75% 24.7K 22m1s
+125000K .......... .......... .......... .......... .......... 75% 21.9K 22m1s
+125050K .......... .......... .......... .......... .......... 75% 65.8K 21m58s
+125100K .......... .......... .......... .......... .......... 75% 42.7K 21m55s
+125150K .......... .......... .......... .......... .......... 75% 41.8K 21m53s
+125200K .......... .......... .......... .......... .......... 75% 40.8K 21m50s
+125250K .......... .......... .......... .......... .......... 75% 54.0K 21m47s
+125300K .......... .......... .......... .......... .......... 75% 30.3K 21m46s
+125350K .......... .......... .......... .......... .......... 75%  167K 21m41s
+125400K .......... .......... .......... .......... .......... 75% 47.9K 21m39s
+125450K .......... .......... .......... .......... .......... 75% 87.7K 21m35s
+125500K .......... .......... .......... .......... .......... 75% 24.9K 21m34s
+125550K .......... .......... .......... .......... .......... 75% 39.1K 21m32s
+125600K .......... .......... .......... .......... .......... 75% 61.6K 21m29s
+125650K .......... .......... .......... .......... .......... 75% 58.0K 21m26s
+125700K .......... .......... .......... .......... .......... 75% 40.0K 21m23s
+125750K .......... .......... .......... .......... .......... 75% 40.9K 21m21s
+125800K .......... .......... .......... .......... .......... 75% 29.8K 21m20s
+125850K .......... .......... .......... .......... .......... 75% 62.9K 21m16s
+125900K .......... .......... .......... .......... .......... 75% 54.1K 21m14s
+125950K .......... .......... .......... .......... .......... 75% 37.0K 21m11s
+126000K .......... .......... .......... .......... .......... 75% 31.9K 21m10s
+126050K .......... .......... .......... .......... .......... 75% 58.0K 21m7s
+126100K .......... .......... .......... .......... .......... 75% 42.6K 21m4s
+126150K .......... .......... .......... .......... .......... 75% 27.0K 21m4s
+126200K .......... .......... .......... .......... .......... 75% 58.4K 21m0s
+126250K .......... .......... .......... .......... .......... 75% 53.1K 20m58s
+126300K .......... .......... .......... .......... .......... 75% 39.5K 20m55s
+126350K .......... .......... .......... .......... .......... 75% 40.5K 20m53s
+126400K .......... .......... .......... .......... .......... 75% 41.4K 20m51s
+126450K .......... .......... .......... .......... .......... 75% 30.3K 20m50s
+126500K .......... .......... .......... .......... .......... 76% 51.0K 20m47s
+126550K .......... .......... .......... .......... .......... 76% 43.0K 20m44s
+126600K .......... .......... .......... .......... .......... 76% 57.3K 20m42s
+126650K .......... .......... .......... .......... .......... 76% 40.8K 20m39s
+126700K .......... .......... .......... .......... .......... 76% 73.4K 20m36s
+126750K .......... .......... .......... .......... .......... 76% 31.6K 20m35s
+126800K .......... .......... .......... .......... .......... 76% 95.4K 20m31s
+126850K .......... .......... .......... .......... .......... 76% 55.5K 20m28s
+126900K .......... .......... .......... .......... .......... 76% 40.5K 20m26s
+126950K .......... .......... .......... .......... .......... 76% 70.6K 20m23s
+127000K .......... .......... .......... .......... .......... 76% 56.0K 20m20s
+127050K .......... .......... .......... .......... .......... 76% 51.6K 20m17s
+127100K .......... .......... .......... .......... .......... 76% 42.1K 20m15s
+127150K .......... .......... .......... .......... .......... 76% 69.7K 20m12s
+127200K .......... .......... .......... .......... .......... 76% 70.1K 20m9s
+127250K .......... .......... .......... .......... .......... 76% 59.1K 20m6s
+127300K .......... .......... .......... .......... .......... 76% 57.3K 20m3s
+127350K .......... .......... .......... .......... .......... 76% 28.0K 20m2s
+127400K .......... .......... .......... .......... .......... 76%  225K 19m58s
+127450K .......... .......... .......... .......... .......... 76% 31.7K 19m57s
+127500K .......... .......... .......... .......... .......... 76% 72.8K 19m53s
+127550K .......... .......... .......... .......... .......... 76% 35.8K 19m52s
+127600K .......... .......... .......... .......... .......... 76% 48.2K 19m49s
+127650K .......... .......... .......... .......... .......... 76% 81.6K 19m46s
+127700K .......... .......... .......... .......... .......... 76% 51.8K 19m43s
+127750K .......... .......... .......... .......... .......... 76% 28.3K 19m42s
+127800K .......... .......... .......... .......... .......... 76%  142K 19m39s
+127850K .......... .......... .......... .......... .......... 76% 46.8K 19m36s
+127900K .......... .......... .......... .......... .......... 76% 44.4K 19m34s
+127950K .......... .......... .......... .......... .......... 76% 42.1K 19m32s
+128000K .......... .......... .......... .......... .......... 76% 30.4K 19m31s
+128050K .......... .......... .......... .......... .......... 76% 72.8K 19m28s
+128100K .......... .......... .......... .......... .......... 76% 42.3K 19m25s
+128150K .......... .......... .......... .......... .......... 76% 44.7K 19m23s
+128200K .......... .......... .......... .......... .......... 77%  104K 19m20s
+128250K .......... .......... .......... .......... .......... 77% 49.9K 19m17s
+128300K .......... .......... .......... .......... .......... 77% 47.7K 19m15s
+128350K .......... .......... .......... .......... .......... 77%  266K 19m11s
+128400K .......... .......... .......... .......... .......... 77% 47.4K 19m9s
+128450K .......... .......... .......... .......... .......... 77% 84.4K 19m6s
+128500K .......... .......... .......... .......... .......... 77% 58.3K 19m3s
+128550K .......... .......... .......... .......... .......... 77% 44.9K 19m1s
+128600K .......... .......... .......... .......... .......... 77%  107K 18m58s
+128650K .......... .......... .......... .......... .......... 77% 74.5K 18m55s
+128700K .......... .......... .......... .......... .......... 77% 72.0K 18m52s
+128750K .......... .......... .......... .......... .......... 77% 67.0K 18m49s
+128800K .......... .......... .......... .......... .......... 77% 31.4K 18m48s
+128850K .......... .......... .......... .......... .......... 77%  100K 18m45s
+128900K .......... .......... .......... .......... .......... 77% 51.4K 18m42s
+128950K .......... .......... .......... .......... .......... 77% 46.2K 18m40s
+129000K .......... .......... .......... .......... .......... 77%  138M 18m36s
+129050K .......... .......... .......... .......... .......... 77% 52.9K 18m34s
+129100K .......... .......... .......... .......... .......... 77% 79.3K 18m31s
+129150K .......... .......... .......... .......... .......... 77% 46.9K 18m28s
+129200K .......... .......... .......... .......... .......... 77% 51.2K 18m26s
+129250K .......... .......... .......... .......... .......... 77%  104K 18m23s
+129300K .......... .......... .......... .......... .......... 77% 68.0K 18m20s
+129350K .......... .......... .......... .......... .......... 77% 44.4K 18m18s
+129400K .......... .......... .......... .......... .......... 77% 46.5K 18m16s
+129450K .......... .......... .......... .......... .......... 77% 43.0K 18m14s
+129500K .......... .......... .......... .......... .......... 77% 77.8K 18m11s
+129550K .......... .......... .......... .......... .......... 77% 38.7K 18m9s
+129600K .......... .......... .......... .......... .......... 77% 56.5K 18m7s
+129650K .......... .......... .......... .......... .......... 77%  175K 18m4s
+129700K .......... .......... .......... .......... .......... 77% 37.4K 18m2s
+129750K .......... .......... .......... .......... .......... 77%  107K 17m59s
+129800K .......... .......... .......... .......... .......... 77% 52.9K 17m57s
+129850K .......... .......... .......... .......... .......... 78% 47.6K 17m54s
+129900K .......... .......... .......... .......... .......... 78%  128K 17m51s
+129950K .......... .......... .......... .......... .......... 78% 57.2K 17m49s
+130000K .......... .......... .......... .......... .......... 78% 39.8K 17m47s
+130050K .......... .......... .......... .......... .......... 78% 78.2K 17m44s
+130100K .......... .......... .......... .......... .......... 78% 50.0K 17m42s
+130150K .......... .......... .......... .......... .......... 78% 55.1K 17m40s
+130200K .......... .......... .......... .......... .......... 78% 79.8K 17m37s
+130250K .......... .......... .......... .......... .......... 78% 75.5K 17m34s
+130300K .......... .......... .......... .......... .......... 78% 57.8K 17m32s
+130350K .......... .......... .......... .......... .......... 78% 70.9K 17m29s
+130400K .......... .......... .......... .......... .......... 78% 32.5K 17m28s
+130450K .......... .......... .......... .......... .......... 78%  177K 17m25s
+130500K .......... .......... .......... .......... .......... 78% 65.0K 17m22s
+130550K .......... .......... .......... .......... .......... 78% 52.9K 17m20s
+130600K .......... .......... .......... .......... .......... 78% 69.4K 17m18s
+130650K .......... .......... .......... .......... .......... 78%  132K 17m15s
+130700K .......... .......... .......... .......... .......... 78% 57.5K 17m12s
+130750K .......... .......... .......... .......... .......... 78% 60.7K 17m10s
+130800K .......... .......... .......... .......... .......... 78% 46.5K 17m8s
+130850K .......... .......... .......... .......... .......... 78% 72.8K 17m5s
+130900K .......... .......... .......... .......... .......... 78% 63.1K 17m3s
+130950K .......... .......... .......... .......... .......... 78% 52.9K 17m1s
+131000K .......... .......... .......... .......... .......... 78% 65.6K 16m58s
+131050K .......... .......... .......... .......... .......... 78% 26.9K 16m58s
+131100K .......... .......... .......... .......... .......... 78% 1.61M 16m54s
+131150K .......... .......... .......... .......... .......... 78% 37.2K 16m53s
+131200K .......... .......... .......... .......... .......... 78% 51.2K 16m50s
+131250K .......... .......... .......... .......... .......... 78% 51.2K 16m48s
+131300K .......... .......... .......... .......... .......... 78% 59.6K 16m46s
+131350K .......... .......... .......... .......... .......... 78% 84.0K 16m44s
+131400K .......... .......... .......... .......... .......... 78% 43.1K 16m42s
+131450K .......... .......... .......... .......... .......... 78% 68.3K 16m39s
+131500K .......... .......... .......... .......... .......... 79% 76.4K 16m37s
+131550K .......... .......... .......... .......... .......... 79% 35.1K 16m35s
+131600K .......... .......... .......... .......... .......... 79% 72.4K 16m33s
+131650K .......... .......... .......... .......... .......... 79% 71.4K 16m30s
+131700K .......... .......... .......... .......... .......... 79% 84.8K 16m28s
+131750K .......... .......... .......... .......... .......... 79% 47.9K 16m26s
+131800K .......... .......... .......... .......... .......... 79% 89.3K 16m23s
+131850K .......... .......... .......... .......... .......... 79% 57.7K 16m21s
+131900K .......... .......... .......... .......... .......... 79% 43.4K 16m19s
+131950K .......... .......... .......... .......... .......... 79% 50.6K 16m17s
+132000K .......... .......... .......... .......... .......... 79% 50.2K 16m15s
+132050K .......... .......... .......... .......... .......... 79% 58.2K 16m13s
+132100K .......... .......... .......... .......... .......... 79% 49.4K 16m11s
+132150K .......... .......... .......... .......... .......... 79% 60.2K 16m9s
+132200K .......... .......... .......... .......... .......... 79% 70.6K 16m7s
+132250K .......... .......... .......... .......... .......... 79% 47.3K 16m5s
+132300K .......... .......... .......... .......... .......... 79% 43.6K 16m3s
+132350K .......... .......... .......... .......... .......... 79% 73.5K 16m1s
+132400K .......... .......... .......... .......... .......... 79% 50.5K 15m59s
+132450K .......... .......... .......... .......... .......... 79% 54.9K 15m57s
+132500K .......... .......... .......... .......... .......... 79% 45.8K 15m55s
+132550K .......... .......... .......... .......... .......... 79% 57.5K 15m53s
+132600K .......... .......... .......... .......... .......... 79% 55.0K 15m51s
+132650K .......... .......... .......... .......... .......... 79% 31.0K 15m49s
+132700K .......... .......... .......... .......... .......... 79% 37.6K 15m48s
+132750K .......... .......... .......... .......... .......... 79% 77.5K 15m46s
+132800K .......... .......... .......... .......... .......... 79% 53.7K 15m44s
+132850K .......... .......... .......... .......... .......... 79% 47.5K 15m42s
+132900K .......... .......... .......... .......... .......... 79% 53.1K 15m40s
+132950K .......... .......... .......... .......... .......... 79% 32.1K 15m39s
+133000K .......... .......... .......... .......... .......... 79% 93.1K 15m36s
+133050K .......... .......... .......... .......... .......... 79% 47.5K 15m34s
+133100K .......... .......... .......... .......... .......... 79% 40.5K 15m33s
+133150K .......... .......... .......... .......... .......... 79% 46.6K 15m31s
+133200K .......... .......... .......... .......... .......... 80% 49.7K 15m29s
+133250K .......... .......... .......... .......... .......... 80% 24.7K 15m28s
+133300K .......... .......... .......... .......... .......... 80% 47.6K 15m26s
+133350K .......... .......... .......... .......... .......... 80% 31.1K 15m25s
+133400K .......... .......... .......... .......... .......... 80% 40.5K 15m24s
+133450K .......... .......... .......... .......... .......... 80% 38.4K 15m22s
+133500K .......... .......... .......... .......... .......... 80% 42.8K 15m21s
+133550K .......... .......... .......... .......... .......... 80% 36.8K 15m19s
+133600K .......... .......... .......... .......... .......... 80% 38.1K 15m18s
+133650K .......... .......... .......... .......... .......... 80% 31.7K 15m16s
+133700K .......... .......... .......... .......... .......... 80% 48.6K 15m15s
+133750K .......... .......... .......... .......... .......... 80% 44.7K 15m13s
+133800K .......... .......... .......... .......... .......... 80% 29.5K 15m12s
+133850K .......... .......... .......... .......... .......... 80% 30.4K 15m11s
+133900K .......... .......... .......... .......... .......... 80% 33.2K 15m9s
+133950K .......... .......... .......... .......... .......... 80% 24.6K 15m9s
+134000K .......... .......... .......... .......... .......... 80% 36.2K 15m7s
+134050K .......... .......... .......... .......... .......... 80% 20.8K 15m7s
+134100K .......... .......... .......... .......... .......... 80% 39.4K 15m6s
+134150K .......... .......... .......... .......... .......... 80% 25.4K 15m5s
+134200K .......... .......... .......... .......... .......... 80% 27.0K 15m4s
+134250K .......... .......... .......... .......... .......... 80% 32.2K 15m3s
+134300K .......... .......... .......... .......... .......... 80% 25.1K 15m2s
+134350K .......... .......... .......... .......... .......... 80% 34.1K 15m1s
+134400K .......... .......... .......... .......... .......... 80% 26.6K 15m0s
+134450K .......... .......... .......... .......... .......... 80% 21.5K 15m0s
+134500K .......... .......... .......... .......... .......... 80% 24.8K 14m59s
+134550K .......... .......... .......... .......... .......... 80% 24.9K 14m58s
+134600K .......... .......... .......... .......... .......... 80% 20.2K 14m58s
+134650K .......... .......... .......... .......... .......... 80% 20.6K 14m58s
+134700K .......... .......... .......... .......... .......... 80% 18.0K 14m58s
+134750K .......... .......... .......... .......... .......... 80% 21.6K 14m57s
+134800K .......... .......... .......... .......... .......... 80% 22.0K 14m57s
+134850K .......... .......... .......... .......... .......... 81% 16.3K 14m57s
+134900K .......... .......... .......... .......... .......... 81% 20.5K 14m57s
+134950K .......... .......... .......... .......... .......... 81% 18.1K 14m57s
+135000K .......... .......... .......... .......... .......... 81% 19.9K 14m57s
+135050K .......... .......... .......... .......... .......... 81% 26.8K 14m56s
+135100K .......... .......... .......... .......... .......... 81% 21.5K 14m56s
+135150K .......... .......... .......... .......... .......... 81% 32.9K 14m54s
+135200K .......... .......... .......... .......... .......... 81% 21.2K 14m54s
+135250K .......... .......... .......... .......... .......... 81% 29.4K 14m53s
+135300K .......... .......... .......... .......... .......... 81% 36.3K 14m51s
+135350K .......... .......... .......... .......... .......... 81% 28.7K 14m50s
+135400K .......... .......... .......... .......... .......... 81% 23.9K 14m49s
+135450K .......... .......... .......... .......... .......... 81% 28.2K 14m48s
+135500K .......... .......... .......... .......... .......... 81% 23.9K 14m48s
+135550K .......... .......... .......... .......... .......... 81% 26.4K 14m47s
+135600K .......... .......... .......... .......... .......... 81% 25.3K 14m46s
+135650K .......... .......... .......... .......... .......... 81% 25.7K 14m45s
+135700K .......... .......... .......... .......... .......... 81% 23.1K 14m44s
+135750K .......... .......... .......... .......... .......... 81% 30.2K 14m43s
+135800K .......... .......... .......... .......... .......... 81% 21.8K 14m43s
+135850K .......... .......... .......... .......... .......... 81% 25.0K 14m42s
+135900K .......... .......... .......... .......... .......... 81% 37.0K 14m40s
+135950K .......... .......... .......... .......... .......... 81% 26.6K 14m39s
+136000K .......... .......... .......... .......... .......... 81% 25.6K 14m38s
+136050K .......... .......... .......... .......... .......... 81% 36.1K 14m37s
+136100K .......... .......... .......... .......... .......... 81% 25.4K 14m36s
+136150K .......... .......... .......... .......... .......... 81% 31.9K 14m35s
+136200K .......... .......... .......... .......... .......... 81% 24.8K 14m34s
+136250K .......... .......... .......... .......... .......... 81% 24.9K 14m33s
+136300K .......... .......... .......... .......... .......... 81% 18.2K 14m33s
+136350K .......... .......... .......... .......... .......... 81% 27.2K 14m32s
+136400K .......... .......... .......... .......... .......... 81% 23.6K 14m31s
+136450K .......... .......... .......... .......... .......... 81% 18.5K 14m31s
+136500K .......... .......... .......... .......... .......... 82% 27.4K 14m30s
+136550K .......... .......... .......... .......... .......... 82% 29.5K 14m28s
+136600K .......... .......... .......... .......... .......... 82% 18.8K 14m28s
+136650K .......... .......... .......... .......... .......... 82% 30.4K 14m27s
+136700K .......... .......... .......... .......... .......... 82% 24.5K 14m26s
+136750K .......... .......... .......... .......... .......... 82% 24.5K 14m25s
+136800K .......... .......... .......... .......... .......... 82% 25.3K 14m24s
+136850K .......... .......... .......... .......... .......... 82% 31.4K 14m23s
+136900K .......... .......... .......... .......... .......... 82% 15.7K 14m23s
+136950K .......... .......... .......... .......... .......... 82% 15.9K 14m23s
+137000K .......... .......... .......... .......... .......... 82% 19.0K 14m23s
+137050K .......... .......... .......... .......... .......... 82% 16.0K 14m23s
+137100K .......... .......... .......... .......... .......... 82% 16.3K 14m23s
+137150K .......... .......... .......... .......... .......... 82% 20.1K 14m23s
+137200K .......... .......... .......... .......... .......... 82% 19.8K 14m22s
+137250K .......... .......... .......... .......... .......... 82% 19.9K 14m22s
+137300K .......... .......... .......... .......... .......... 82% 32.2K 14m20s
+137350K .......... .......... .......... .......... .......... 82% 27.6K 14m19s
+137400K .......... .......... .......... .......... .......... 82% 46.2K 14m17s
+137450K .......... .......... .......... .......... .......... 82% 30.1K 14m16s
+137500K .......... .......... .......... .......... .......... 82% 52.2K 14m14s
+137550K .......... .......... .......... .......... .......... 82% 42.8K 14m12s
+137600K .......... .......... .......... .......... .......... 82% 32.4K 14m11s
+137650K .......... .......... .......... .......... .......... 82% 51.2K 14m9s
+137700K .......... .......... .......... .......... .......... 82% 44.3K 14m7s
+137750K .......... .......... .......... .......... .......... 82% 57.7K 14m5s
+137800K .......... .......... .......... .......... .......... 82% 40.5K 14m4s
+137850K .......... .......... .......... .......... .......... 82% 43.3K 14m2s
+137900K .......... .......... .......... .......... .......... 82% 36.3K 14m0s
+137950K .......... .......... .......... .......... .......... 82% 47.1K 13m58s
+138000K .......... .......... .......... .......... .......... 82% 29.6K 13m57s
+138050K .......... .......... .......... .......... .......... 82% 53.7K 13m55s
+138100K .......... .......... .......... .......... .......... 82% 34.8K 13m54s
+138150K .......... .......... .......... .......... .......... 83% 66.0K 13m51s
+138200K .......... .......... .......... .......... .......... 83% 44.4K 13m50s
+138250K .......... .......... .......... .......... .......... 83% 35.0K 13m48s
+138300K .......... .......... .......... .......... .......... 83% 35.3K 13m47s
+138350K .......... .......... .......... .......... .......... 83% 42.0K 13m45s
+138400K .......... .......... .......... .......... .......... 83% 40.0K 13m43s
+138450K .......... .......... .......... .......... .......... 83% 39.6K 13m42s
+138500K .......... .......... .......... .......... .......... 83% 49.6K 13m40s
+138550K .......... .......... .......... .......... .......... 83% 35.0K 13m38s
+138600K .......... .......... .......... .......... .......... 83% 35.5K 13m37s
+138650K .......... .......... .......... .......... .......... 83% 70.8K 13m35s
+138700K .......... .......... .......... .......... .......... 83% 56.9K 13m33s
+138750K .......... .......... .......... .......... .......... 83% 38.6K 13m31s
+138800K .......... .......... .......... .......... .......... 83%  116K 13m29s
+138850K .......... .......... .......... .......... .......... 83% 51.2K 13m27s
+138900K .......... .......... .......... .......... .......... 83% 76.7K 13m25s
+138950K .......... .......... .......... .......... .......... 83% 58.6K 13m23s
+139000K .......... .......... .......... .......... .......... 83% 22.7K 13m22s
+139050K .......... .......... .......... .......... .......... 83% 76.4K 13m20s
+139100K .......... .......... .......... .......... .......... 83% 49.6K 13m18s
+139150K .......... .......... .......... .......... .......... 83%  141K 13m16s
+139200K .......... .......... .......... .......... .......... 83% 31.2K 13m14s
+139250K .......... .......... .......... .......... .......... 83%  205K 13m12s
+139300K .......... .......... .......... .......... .......... 83% 63.0K 13m10s
+139350K .......... .......... .......... .......... .......... 83% 95.9K 13m7s
+139400K .......... .......... .......... .......... .......... 83% 50.0K 13m6s
+139450K .......... .......... .......... .......... .......... 83% 49.3K 13m4s
+139500K .......... .......... .......... .......... .......... 83% 56.5K 13m2s
+139550K .......... .......... .......... .......... .......... 83% 37.0K 13m0s
+139600K .......... .......... .......... .......... .......... 83% 84.0K 12m58s
+139650K .......... .......... .......... .......... .......... 83% 50.6K 12m56s
+139700K .......... .......... .......... .......... .......... 83% 57.5K 12m54s
+139750K .......... .......... .......... .......... .......... 83% 64.6K 12m52s
+139800K .......... .......... .......... .......... .......... 83% 58.5K 12m51s
+139850K .......... .......... .......... .......... .......... 84% 39.0K 12m49s
+139900K .......... .......... .......... .......... .......... 84%  130K 12m47s
+139950K .......... .......... .......... .......... .......... 84% 39.5K 12m45s
+140000K .......... .......... .......... .......... .......... 84% 55.5K 12m43s
+140050K .......... .......... .......... .......... .......... 84% 52.0K 12m41s
+140100K .......... .......... .......... .......... .......... 84% 86.2K 12m39s
+140150K .......... .......... .......... .......... .......... 84%  117K 12m37s
+140200K .......... .......... .......... .......... .......... 84% 47.2K 12m35s
+140250K .......... .......... .......... .......... .......... 84% 73.2K 12m33s
+140300K .......... .......... .......... .......... .......... 84% 66.6K 12m31s
+140350K .......... .......... .......... .......... .......... 84% 54.0K 12m29s
+140400K .......... .......... .......... .......... .......... 84% 78.3K 12m27s
+140450K .......... .......... .......... .......... .......... 84% 49.3K 12m26s
+140500K .......... .......... .......... .......... .......... 84% 27.0K 12m25s
+140550K .......... .......... .......... .......... .......... 84%  198M 12m22s
+140600K .......... .......... .......... .......... .......... 84%  421K 12m20s
+140650K .......... .......... .......... .......... .......... 84% 72.1K 12m18s
+140700K .......... .......... .......... .......... .......... 84% 47.8K 12m16s
+140750K .......... .......... .......... .......... .......... 84% 90.5K 12m14s
+140800K .......... .......... .......... .......... .......... 84% 68.7K 12m12s
+140850K .......... .......... .......... .......... .......... 84% 46.1K 12m10s
+140900K .......... .......... .......... .......... .......... 84% 38.3K 12m9s
+140950K .......... .......... .......... .......... .......... 84% 46.9K 12m7s
+141000K .......... .......... .......... .......... .......... 84% 73.6K 12m5s
+141050K .......... .......... .......... .......... .......... 84% 35.9K 12m4s
+141100K .......... .......... .......... .......... .......... 84%  182K 12m1s
+141150K .......... .......... .......... .......... .......... 84% 37.7K 12m0s
+141200K .......... .......... .......... .......... .......... 84% 35.5K 11m58s
+141250K .......... .......... .......... .......... .......... 84% 96.5K 11m56s
+141300K .......... .......... .......... .......... .......... 84% 53.3K 11m54s
+141350K .......... .......... .......... .......... .......... 84% 59.1K 11m53s
+141400K .......... .......... .......... .......... .......... 84% 47.8K 11m51s
+141450K .......... .......... .......... .......... .......... 84% 62.8K 11m49s
+141500K .......... .......... .......... .......... .......... 85% 55.3K 11m47s
+141550K .......... .......... .......... .......... .......... 85% 53.0K 11m46s
+141600K .......... .......... .......... .......... .......... 85% 61.9K 11m44s
+141650K .......... .......... .......... .......... .......... 85% 43.0K 11m42s
+141700K .......... .......... .......... .......... .......... 85% 76.6K 11m40s
+141750K .......... .......... .......... .......... .......... 85% 78.7K 11m38s
+141800K .......... .......... .......... .......... .......... 85% 50.4K 11m36s
+141850K .......... .......... .......... .......... .......... 85% 46.6K 11m35s
+141900K .......... .......... .......... .......... .......... 85% 93.9K 11m33s
+141950K .......... .......... .......... .......... .......... 85% 65.5K 11m31s
+142000K .......... .......... .......... .......... .......... 85% 56.2K 11m29s
+142050K .......... .......... .......... .......... .......... 85% 24.5K 11m28s
+142100K .......... .......... .......... .......... .......... 85%  182K 11m26s
+142150K .......... .......... .......... .......... .......... 85% 83.8K 11m24s
+142200K .......... .......... .......... .......... .......... 85% 49.1K 11m22s
+142250K .......... .......... .......... .......... .......... 85% 41.8K 11m21s
+142300K .......... .......... .......... .......... .......... 85% 60.7K 11m19s
+142350K .......... .......... .......... .......... .......... 85%  106K 11m17s
+142400K .......... .......... .......... .......... .......... 85% 43.8K 11m15s
+142450K .......... .......... .......... .......... .......... 85% 39.1K 11m14s
+142500K .......... .......... .......... .......... .......... 85%  107K 11m12s
+142550K .......... .......... .......... .......... .......... 85% 37.4K 11m10s
+142600K .......... .......... .......... .......... .......... 85% 55.9K 11m9s
+142650K .......... .......... .......... .......... .......... 85% 42.0K 11m7s
+142700K .......... .......... .......... .......... .......... 85% 44.7K 11m6s
+142750K .......... .......... .......... .......... .......... 85%  119K 11m3s
+142800K .......... .......... .......... .......... .......... 85% 34.2K 11m2s
+142850K .......... .......... .......... .......... .......... 85% 50.7K 11m0s
+142900K .......... .......... .......... .......... .......... 85% 49.9K 10m59s
+142950K .......... .......... .......... .......... .......... 85% 38.0K 10m57s
+143000K .......... .......... .......... .......... .......... 85% 48.8K 10m56s
+143050K .......... .......... .......... .......... .......... 85% 64.0K 10m54s
+143100K .......... .......... .......... .......... .......... 85% 65.9K 10m52s
+143150K .......... .......... .......... .......... .......... 86% 43.9K 10m51s
+143200K .......... .......... .......... .......... .......... 86% 54.3K 10m49s
+143250K .......... .......... .......... .......... .......... 86% 37.1K 10m47s
+143300K .......... .......... .......... .......... .......... 86% 31.7K 10m46s
+143350K .......... .......... .......... .......... .......... 86% 27.9K 10m45s
+143400K .......... .......... .......... .......... .......... 86% 58.2K 10m43s
+143450K .......... .......... .......... .......... .......... 86% 42.5K 10m42s
+143500K .......... .......... .......... .......... .......... 86% 24.1K 10m41s
+143550K .......... .......... .......... .......... .......... 86%  167K 10m39s
+143600K .......... .......... .......... .......... .......... 86% 38.9K 10m37s
+143650K .......... .......... .......... .......... .......... 86% 38.8K 10m36s
+143700K .......... .......... .......... .......... .......... 86% 45.0K 10m34s
+143750K .......... .......... .......... .......... .......... 86% 37.7K 10m33s
+143800K .......... .......... .......... .......... .......... 86% 31.9K 10m31s
+143850K .......... .......... .......... .......... .......... 86% 49.8K 10m30s
+143900K .......... .......... .......... .......... .......... 86% 33.2K 10m29s
+143950K .......... .......... .......... .......... .......... 86% 47.7K 10m27s
+144000K .......... .......... .......... .......... .......... 86% 32.8K 10m26s
+144050K .......... .......... .......... .......... .......... 86% 78.1K 10m24s
+144100K .......... .......... .......... .......... .......... 86% 40.2K 10m22s
+144150K .......... .......... .......... .......... .......... 86% 55.7K 10m21s
+144200K .......... .......... .......... .......... .......... 86% 69.3K 10m19s
+144250K .......... .......... .......... .......... .......... 86% 48.5K 10m17s
+144300K .......... .......... .......... .......... .......... 86% 56.2K 10m16s
+144350K .......... .......... .......... .......... .......... 86%  112K 10m14s
+144400K .......... .......... .......... .......... .......... 86% 42.8K 10m12s
+144450K .......... .......... .......... .......... .......... 86% 51.8K 10m10s
+144500K .......... .......... .......... .......... .......... 86% 36.8K 10m9s
+144550K .......... .......... .......... .......... .......... 86% 90.4K 10m7s
+144600K .......... .......... .......... .......... .......... 86% 43.7K 10m6s
+144650K .......... .......... .......... .......... .......... 86% 37.8K 10m4s
+144700K .......... .......... .......... .......... .......... 86% 46.2K 10m3s
+144750K .......... .......... .......... .......... .......... 86% 36.2K 10m1s
+144800K .......... .......... .......... .......... .......... 86% 59.5K 10m0s
+144850K .......... .......... .......... .......... .......... 87% 47.8K 9m58s
+144900K .......... .......... .......... .......... .......... 87% 39.1K 9m57s
+144950K .......... .......... .......... .......... .......... 87% 87.2K 9m55s
+145000K .......... .......... .......... .......... .......... 87% 36.0K 9m53s
+145050K .......... .......... .......... .......... .......... 87% 45.9K 9m52s
+145100K .......... .......... .......... .......... .......... 87% 62.8K 9m50s
+145150K .......... .......... .......... .......... .......... 87% 45.1K 9m49s
+145200K .......... .......... .......... .......... .......... 87% 36.3K 9m47s
+145250K .......... .......... .......... .......... .......... 87% 86.3K 9m45s
+145300K .......... .......... .......... .......... .......... 87% 52.8K 9m44s
+145350K .......... .......... .......... .......... .......... 87% 31.9K 9m42s
+145400K .......... .......... .......... .......... .......... 87% 46.7K 9m41s
+145450K .......... .......... .......... .......... .......... 87% 50.2K 9m39s
+145500K .......... .......... .......... .......... .......... 87% 32.2K 9m38s
+145550K .......... .......... .......... .......... .......... 87% 61.7K 9m36s
+145600K .......... .......... .......... .......... .......... 87% 25.4K 9m35s
+145650K .......... .......... .......... .......... .......... 87% 46.9K 9m34s
+145700K .......... .......... .......... .......... .......... 87% 35.7K 9m32s
+145750K .......... .......... .......... .......... .......... 87% 35.4K 9m31s
+145800K .......... .......... .......... .......... .......... 87% 32.2K 9m30s
+145850K .......... .......... .......... .......... .......... 87% 43.2K 9m28s
+145900K .......... .......... .......... .......... .......... 87% 29.1K 9m27s
+145950K .......... .......... .......... .......... .......... 87% 54.0K 9m25s
+146000K .......... .......... .......... .......... .......... 87% 34.2K 9m24s
+146050K .......... .......... .......... .......... .......... 87% 55.0K 9m22s
+146100K .......... .......... .......... .......... .......... 87% 71.9K 9m21s
+146150K .......... .......... .......... .......... .......... 87% 17.7K 9m20s
+146200K .......... .......... .......... .......... .......... 87% 91.1K 9m18s
+146250K .......... .......... .......... .......... .......... 87% 66.2K 9m17s
+146300K .......... .......... .......... .......... .......... 87% 30.7K 9m15s
+146350K .......... .......... .......... .......... .......... 87% 55.1K 9m14s
+146400K .......... .......... .......... .......... .......... 87% 46.9K 9m12s
+146450K .......... .......... .......... .......... .......... 87% 36.4K 9m11s
+146500K .......... .......... .......... .......... .......... 88% 24.4K 9m10s
+146550K .......... .......... .......... .......... .......... 88% 83.9K 9m8s
+146600K .......... .......... .......... .......... .......... 88% 32.4K 9m7s
+146650K .......... .......... .......... .......... .......... 88% 17.6K 9m6s
+146700K .......... .......... .......... .......... .......... 88% 59.6K 9m4s
+146750K .......... .......... .......... .......... .......... 88% 43.7K 9m3s
+146800K .......... .......... .......... .......... .......... 88% 30.6K 9m2s
+146850K .......... .......... .......... .......... .......... 88% 38.4K 9m0s
+146900K .......... .......... .......... .......... .......... 88% 30.1K 8m59s
+146950K .......... .......... .......... .......... .......... 88% 32.8K 8m58s
+147000K .......... .......... .......... .......... .......... 88% 47.4K 8m56s
+147050K .......... .......... .......... .......... .......... 88% 37.3K 8m55s
+147100K .......... .......... .......... .......... .......... 88% 40.4K 8m53s
+147150K .......... .......... .......... .......... .......... 88% 25.5K 8m52s
+147200K .......... .......... .......... .......... .......... 88% 29.9K 8m51s
+147250K .......... .......... .......... .......... .......... 88% 42.8K 8m49s
+147300K .......... .......... .......... .......... .......... 88% 29.8K 8m48s
+147350K .......... .......... .......... .......... .......... 88% 35.9K 8m47s
+147400K .......... .......... .......... .......... .......... 88% 31.0K 8m46s
+147450K .......... .......... .......... .......... .......... 88% 22.3K 8m45s
+147500K .......... .......... .......... .......... .......... 88% 35.5K 8m43s
+147550K .......... .......... .......... .......... .......... 88% 40.8K 8m42s
+147600K .......... .......... .......... .......... .......... 88% 25.8K 8m41s
+147650K .......... .......... .......... .......... .......... 88% 34.9K 8m39s
+147700K .......... .......... .......... .......... .......... 88% 27.1K 8m38s
+147750K .......... .......... .......... .......... .......... 88% 39.7K 8m37s
+147800K .......... .......... .......... .......... .......... 88% 35.7K 8m35s
+147850K .......... .......... .......... .......... .......... 88% 39.7K 8m34s
+147900K .......... .......... .......... .......... .......... 88% 41.6K 8m32s
+147950K .......... .......... .......... .......... .......... 88% 19.9K 8m32s
+148000K .......... .......... .......... .......... .......... 88% 60.3K 8m30s
+148050K .......... .......... .......... .......... .......... 88% 25.8K 8m29s
+148100K .......... .......... .......... .......... .......... 88% 27.9K 8m28s
+148150K .......... .......... .......... .......... .......... 89% 29.5K 8m26s
+148200K .......... .......... .......... .......... .......... 89% 30.9K 8m25s
+148250K .......... .......... .......... .......... .......... 89% 29.3K 8m24s
+148300K .......... .......... .......... .......... .......... 89% 24.7K 8m23s
+148350K .......... .......... .......... .......... .......... 89% 30.2K 8m21s
+148400K .......... .......... .......... .......... .......... 89% 35.7K 8m20s
+148450K .......... .......... .......... .......... .......... 89% 23.2K 8m19s
+148500K .......... .......... .......... .......... .......... 89% 34.5K 8m18s
+148550K .......... .......... .......... .......... .......... 89% 23.9K 8m17s
+148600K .......... .......... .......... .......... .......... 89% 19.8K 8m16s
+148650K .......... .......... .......... .......... .......... 89% 17.5K 8m15s
+148700K .......... .......... .......... .......... .......... 89% 29.1K 8m14s
+148750K .......... .......... .......... .......... .......... 89% 18.9K 8m13s
+148800K .......... .......... .......... .......... .......... 89% 23.5K 8m12s
+148850K .......... .......... .......... .......... .......... 89% 23.2K 8m11s
+148900K .......... .......... .......... .......... .......... 89% 20.6K 8m10s
+148950K .......... .......... .......... .......... .......... 89% 23.0K 8m9s
+149000K .......... .......... .......... .......... .......... 89% 26.7K 8m7s
+149050K .......... .......... .......... .......... .......... 89% 28.7K 8m6s
+149100K .......... .......... .......... .......... .......... 89% 20.9K 8m5s
+149150K .......... .......... .......... .......... .......... 89% 14.8K 8m5s
+149200K .......... .......... .......... .......... .......... 89% 28.0K 8m3s
+149250K .......... .......... .......... .......... .......... 89% 15.1K 8m3s
+149300K .......... .......... .......... .......... .......... 89% 26.8K 8m2s
+149350K .......... .......... .......... .......... .......... 89% 17.2K 8m1s
+149400K .......... .......... .......... .......... .......... 89% 21.5K 8m0s
+149450K .......... .......... .......... .......... .......... 89% 25.7K 7m58s
+149500K .......... .......... .......... .......... .......... 89% 22.7K 7m57s
+149550K .......... .......... .......... .......... .......... 89% 21.3K 7m56s
+149600K .......... .......... .......... .......... .......... 89% 24.6K 7m55s
+149650K .......... .......... .......... .......... .......... 89% 35.3K 7m54s
+149700K .......... .......... .......... .......... .......... 89% 35.6K 7m52s
+149750K .......... .......... .......... .......... .......... 89% 31.7K 7m51s
+149800K .......... .......... .......... .......... .......... 89% 33.4K 7m50s
+149850K .......... .......... .......... .......... .......... 90% 41.2K 7m48s
+149900K .......... .......... .......... .......... .......... 90% 43.5K 7m47s
+149950K .......... .......... .......... .......... .......... 90% 39.0K 7m45s
+150000K .......... .......... .......... .......... .......... 90% 38.3K 7m44s
+150050K .......... .......... .......... .......... .......... 90% 18.0K 7m43s
+150100K .......... .......... .......... .......... .......... 90% 44.9K 7m41s
+150150K .......... .......... .......... .......... .......... 90% 30.1K 7m40s
+150200K .......... .......... .......... .......... .......... 90% 32.9K 7m39s
+150250K .......... .......... .......... .......... .......... 90% 32.0K 7m37s
+150300K .......... .......... .......... .......... .......... 90% 25.2K 7m36s
+150350K .......... .......... .......... .......... .......... 90% 30.6K 7m35s
+150400K .......... .......... .......... .......... .......... 90% 31.2K 7m33s
+150450K .......... .......... .......... .......... .......... 90% 21.8K 7m32s
+150500K .......... .......... .......... .......... .......... 90% 29.8K 7m31s
+150550K .......... .......... .......... .......... .......... 90% 29.0K 7m30s
+150600K .......... .......... .......... .......... .......... 90% 31.3K 7m28s
+150650K .......... .......... .......... .......... .......... 90% 34.7K 7m27s
+150700K .......... .......... .......... .......... .......... 90% 48.3K 7m25s
+150750K .......... .......... .......... .......... .......... 90% 34.3K 7m24s
+150800K .......... .......... .......... .......... .......... 90% 32.2K 7m23s
+150850K .......... .......... .......... .......... .......... 90% 41.6K 7m21s
+150900K .......... .......... .......... .......... .......... 90% 33.5K 7m20s
+150950K .......... .......... .......... .......... .......... 90% 39.3K 7m18s
+151000K .......... .......... .......... .......... .......... 90% 42.2K 7m17s
+151050K .......... .......... .......... .......... .......... 90% 42.7K 7m15s
+151100K .......... .......... .......... .......... .......... 90% 32.7K 7m14s
+151150K .......... .......... .......... .......... .......... 90% 26.6K 7m13s
+151200K .......... .......... .......... .......... .......... 90% 28.7K 7m11s
+151250K .......... .......... .......... .......... .......... 90% 25.5K 7m10s
+151300K .......... .......... .......... .......... .......... 90% 37.1K 7m9s
+151350K .......... .......... .......... .......... .......... 90% 34.3K 7m7s
+151400K .......... .......... .......... .......... .......... 90% 50.4K 7m6s
+151450K .......... .......... .......... .......... .......... 90% 32.5K 7m4s
+151500K .......... .......... .......... .......... .......... 91% 20.4K 7m3s
+151550K .......... .......... .......... .......... .......... 91% 52.4K 7m2s
+151600K .......... .......... .......... .......... .......... 91% 38.3K 7m0s
+151650K .......... .......... .......... .......... .......... 91% 22.8K 6m59s
+151700K .......... .......... .......... .......... .......... 91% 30.1K 6m58s
+151750K .......... .......... .......... .......... .......... 91% 32.1K 6m56s
+151800K .......... .......... .......... .......... .......... 91% 23.6K 6m55s
+151850K .......... .......... .......... .......... .......... 91% 20.4K 6m54s
+151900K .......... .......... .......... .......... .......... 91% 34.1K 6m53s
+151950K .......... .......... .......... .......... .......... 91% 21.9K 6m52s
+152000K .......... .......... .......... .......... .......... 91% 21.1K 6m51s
+152050K .......... .......... .......... .......... .......... 91% 34.0K 6m49s
+152100K .......... .......... .......... .......... .......... 91% 18.5K 6m48s
+152150K .......... .......... .......... .......... .......... 91% 28.5K 6m47s
+152200K .......... .......... .......... .......... .......... 91% 29.4K 6m45s
+152250K .......... .......... .......... .......... .......... 91% 23.2K 6m44s
+152300K .......... .......... .......... .......... .......... 91% 22.3K 6m43s
+152350K .......... .......... .......... .......... .......... 91% 16.4K 6m42s
+152400K .......... .......... .......... .......... .......... 91% 18.7K 6m41s
+152450K .......... .......... .......... .......... .......... 91% 18.2K 6m40s
+152500K .......... .......... .......... .......... .......... 91% 19.5K 6m39s
+152550K .......... .......... .......... .......... .......... 91% 17.2K 6m38s
+152600K .......... .......... .......... .......... .......... 91% 15.6K 6m37s
+152650K .......... .......... .......... .......... .......... 91% 20.8K 6m36s
+152700K .......... .......... .......... .......... .......... 91% 15.5K 6m35s
+152750K .......... .......... .......... .......... .......... 91% 12.9K 6m34s
+152800K .......... .......... .......... .......... .......... 91% 13.4K 6m34s
+152850K .......... .......... .......... .......... .......... 91% 12.4K 6m33s
+152900K .......... .......... .......... .......... .......... 91% 17.2K 6m32s
+152950K .......... .......... .......... .......... .......... 91% 14.5K 6m31s
+153000K .......... .......... .......... .......... .......... 91% 14.6K 6m30s
+153050K .......... .......... .......... .......... .......... 91% 11.7K 6m30s
+153100K .......... .......... .......... .......... .......... 91% 13.7K 6m29s
+153150K .......... .......... .......... .......... .......... 92% 1.09K 6m40s
+153200K .......... .......... .......... .......... .......... 92%  152M 6m38s
+153250K .......... .......... .......... .......... .......... 92%  169M 6m36s
+153300K .......... .......... .......... .......... .......... 92%  137M 6m34s
+153350K .......... .......... .......... .......... .......... 92%  168M 6m32s
+153400K .......... .......... .......... .......... .......... 92%  181M 6m30s
+153450K .......... .......... .......... .......... .......... 92%  172M 6m28s
+153500K .......... .......... .......... .......... .......... 92% 27.3K 6m27s
+153550K .......... .......... .......... .......... .......... 92% 23.4K 6m26s
+153600K .......... .......... .......... .......... .......... 92% 25.8K 6m24s
+153650K .......... .......... .......... .......... .......... 92% 27.3K 6m23s
+153700K .......... .......... .......... .......... .......... 92% 29.4K 6m21s
+153750K .......... .......... .......... .......... .......... 92% 25.0K 6m20s
+153800K .......... .......... .......... .......... .......... 92% 23.4K 6m19s
+153850K .......... .......... .......... .......... .......... 92% 29.0K 6m17s
+153900K .......... .......... .......... .......... .......... 92% 24.5K 6m16s
+153950K .......... .......... .......... .......... .......... 92% 31.1K 6m15s
+154000K .......... .......... .......... .......... .......... 92% 26.6K 6m13s
+154050K .......... .......... .......... .......... .......... 92% 33.8K 6m12s
+154100K .......... .......... .......... .......... .......... 92% 36.4K 6m10s
+154150K .......... .......... .......... .......... .......... 92% 17.7K 6m9s
+154200K .......... .......... .......... .......... .......... 92% 26.6K 6m8s
+154250K .......... .......... .......... .......... .......... 92% 27.0K 6m6s
+154300K .......... .......... .......... .......... .......... 92% 24.3K 6m5s
+154350K .......... .......... .......... .......... .......... 92% 23.0K 6m3s
+154400K .......... .......... .......... .......... .......... 92% 19.3K 6m2s
+154450K .......... .......... .......... .......... .......... 92% 35.3K 6m1s
+154500K .......... .......... .......... .......... .......... 92% 25.3K 5m59s
+154550K .......... .......... .......... .......... .......... 92% 29.2K 5m58s
+154600K .......... .......... .......... .......... .......... 92% 30.0K 5m56s
+154650K .......... .......... .......... .......... .......... 92% 22.4K 5m55s
+154700K .......... .......... .......... .......... .......... 92% 18.4K 5m54s
+154750K .......... .......... .......... .......... .......... 92% 31.8K 5m52s
+154800K .......... .......... .......... .......... .......... 93% 19.9K 5m51s
+154850K .......... .......... .......... .......... .......... 93% 26.4K 5m50s
+154900K .......... .......... .......... .......... .......... 93% 18.9K 5m48s
+154950K .......... .......... .......... .......... .......... 93% 14.8K 5m47s
+155000K .......... .......... .......... .......... .......... 93% 45.1K 5m46s
+155050K .......... .......... .......... .......... .......... 93% 18.0K 5m45s
+155100K .......... .......... .......... .......... .......... 93% 31.8K 5m43s
+155150K .......... .......... .......... .......... .......... 93% 22.0K 5m42s
+155200K .......... .......... .......... .......... .......... 93% 22.1K 5m40s
+155250K .......... .......... .......... .......... .......... 93% 19.7K 5m39s
+155300K .......... .......... .......... .......... .......... 93% 15.8K 5m38s
+155350K .......... .......... .......... .......... .......... 93% 19.6K 5m37s
+155400K .......... .......... .......... .......... .......... 93% 16.5K 5m36s
+155450K .......... .......... .......... .......... .......... 93% 25.5K 5m34s
+155500K .......... .......... .......... .......... .......... 93% 18.5K 5m33s
+155550K .......... .......... .......... .......... .......... 93% 17.2K 5m32s
+155600K .......... .......... .......... .......... .......... 93% 20.9K 5m30s
+155650K .......... .......... .......... .......... .......... 93% 16.6K 5m29s
+155700K .......... .......... .......... .......... .......... 93% 17.3K 5m28s
+155750K .......... .......... .......... .......... .......... 93% 17.4K 5m27s
+155800K .......... .......... .......... .......... .......... 93% 17.6K 5m25s
+155850K .......... .......... .......... .......... .......... 93% 15.8K 5m24s
+155900K .......... .......... .......... .......... .......... 93% 16.3K 5m23s
+155950K .......... .......... .......... .......... .......... 93% 15.3K 5m22s
+156000K .......... .......... .......... .......... .......... 93% 12.9K 5m21s
+156050K .......... .......... .......... .......... .......... 93% 17.7K 5m20s
+156100K .......... .......... .......... .......... .......... 93% 23.0K 5m18s
+156150K .......... .......... .......... .......... .......... 93% 25.5K 5m17s
+156200K .......... .......... .......... .......... .......... 93% 34.4K 5m15s
+156250K .......... .......... .......... .......... .......... 93% 29.0K 5m14s
+156300K .......... .......... .......... .......... .......... 93% 25.6K 5m12s
+156350K .......... .......... .......... .......... .......... 93% 22.4K 5m11s
+156400K .......... .......... .......... .......... .......... 93% 26.2K 5m9s
+156450K .......... .......... .......... .......... .......... 93% 25.9K 5m8s
+156500K .......... .......... .......... .......... .......... 94% 23.7K 5m7s
+156550K .......... .......... .......... .......... .......... 94% 27.5K 5m5s
+156600K .......... .......... .......... .......... .......... 94% 20.3K 5m4s
+156650K .......... .......... .......... .......... .......... 94% 26.0K 5m2s
+156700K .......... .......... .......... .......... .......... 94% 27.0K 5m1s
+156750K .......... .......... .......... .......... .......... 94% 23.7K 4m59s
+156800K .......... .......... .......... .......... .......... 94% 25.2K 4m58s
+156850K .......... .......... .......... .......... .......... 94% 24.5K 4m56s
+156900K .......... .......... .......... .......... .......... 94% 39.5K 4m55s
+156950K .......... .......... .......... .......... .......... 94% 36.1K 4m53s
+157000K .......... .......... .......... .......... .......... 94% 30.5K 4m52s
+157050K .......... .......... .......... .......... .......... 94% 22.9K 4m50s
+157100K .......... .......... .......... .......... .......... 94% 27.3K 4m49s
+157150K .......... .......... .......... .......... .......... 94% 17.8K 4m47s
+157200K .......... .......... .......... .......... .......... 94% 28.6K 4m46s
+157250K .......... .......... .......... .......... .......... 94% 24.9K 4m45s
+157300K .......... .......... .......... .......... .......... 94% 28.1K 4m43s
+157350K .......... .......... .......... .......... .......... 94% 20.2K 4m42s
+157400K .......... .......... .......... .......... .......... 94% 21.9K 4m40s
+157450K .......... .......... .......... .......... .......... 94% 28.2K 4m39s
+157500K .......... .......... .......... .......... .......... 94% 12.0K 4m38s
+157550K .......... .......... .......... .......... .......... 94% 33.9K 4m36s
+157600K .......... .......... .......... .......... .......... 94% 33.1K 4m35s
+157650K .......... .......... .......... .......... .......... 94% 30.3K 4m33s
+157700K .......... .......... .......... .......... .......... 94% 39.5K 4m31s
+157750K .......... .......... .......... .......... .......... 94% 34.9K 4m30s
+157800K .......... .......... .......... .......... .......... 94% 37.5K 4m28s
+157850K .......... .......... .......... .......... .......... 94% 92.6K 4m26s
+157900K .......... .......... .......... .......... .......... 94% 28.9K 4m25s
+157950K .......... .......... .......... .......... .......... 94% 66.6K 4m23s
+158000K .......... .......... .......... .......... .......... 94% 34.6K 4m22s
+158050K .......... .......... .......... .......... .......... 94%  154K 4m20s
+158100K .......... .......... .......... .......... .......... 94% 31.5K 4m18s
+158150K .......... .......... .......... .......... .......... 95% 61.0K 4m17s
+158200K .......... .......... .......... .......... .......... 95% 33.9K 4m15s
+158250K .......... .......... .......... .......... .......... 95% 26.7K 4m14s
+158300K .......... .......... .......... .......... .......... 95% 81.5K 4m12s
+158350K .......... .......... .......... .......... .......... 95% 24.8K 4m11s
+158400K .......... .......... .......... .......... .......... 95% 51.3K 4m9s
+158450K .......... .......... .......... .......... .......... 95% 32.4K 4m7s
+158500K .......... .......... .......... .......... .......... 95% 74.2K 4m6s
+158550K .......... .......... .......... .......... .......... 95% 43.2K 4m4s
+158600K .......... .......... .......... .......... .......... 95% 28.9K 4m3s
+158650K .......... .......... .......... .......... .......... 95% 67.9K 4m1s
+158700K .......... .......... .......... .......... .......... 95% 32.7K 3m59s
+158750K .......... .......... .......... .......... .......... 95% 36.0K 3m58s
+158800K .......... .......... .......... .......... .......... 95% 35.1K 3m56s
+158850K .......... .......... .......... .......... .......... 95% 62.2K 3m55s
+158900K .......... .......... .......... .......... .......... 95% 35.4K 3m53s
+158950K .......... .......... .......... .......... .......... 95% 34.3K 3m51s
+159000K .......... .......... .......... .......... .......... 95% 28.7K 3m50s
+159050K .......... .......... .......... .......... .......... 95% 41.6K 3m48s
+159100K .......... .......... .......... .......... .......... 95% 35.5K 3m47s
+159150K .......... .......... .......... .......... .......... 95% 34.4K 3m45s
+159200K .......... .......... .......... .......... .......... 95% 19.4K 3m44s
+159250K .......... .......... .......... .......... .......... 95% 41.8K 3m42s
+159300K .......... .......... .......... .......... .......... 95% 41.9K 3m41s
+159350K .......... .......... .......... .......... .......... 95% 23.1K 3m39s
+159400K .......... .......... .......... .......... .......... 95% 37.4K 3m38s
+159450K .......... .......... .......... .......... .......... 95% 32.3K 3m36s
+159500K .......... .......... .......... .......... .......... 95% 36.1K 3m35s
+159550K .......... .......... .......... .......... .......... 95% 19.3K 3m33s
+159600K .......... .......... .......... .......... .......... 95% 69.9K 3m31s
+159650K .......... .......... .......... .......... .......... 95% 40.0K 3m30s
+159700K .......... .......... .......... .......... .......... 95% 36.0K 3m28s
+159750K .......... .......... .......... .......... .......... 95% 37.6K 3m27s
+159800K .......... .......... .......... .......... .......... 96% 56.5K 3m25s
+159850K .......... .......... .......... .......... .......... 96% 45.9K 3m24s
+159900K .......... .......... .......... .......... .......... 96% 34.1K 3m22s
+159950K .......... .......... .......... .......... .......... 96% 55.1K 3m20s
+160000K .......... .......... .......... .......... .......... 96% 44.5K 3m19s
+160050K .......... .......... .......... .......... .......... 96% 34.5K 3m17s
+160100K .......... .......... .......... .......... .......... 96% 35.1K 3m16s
+160150K .......... .......... .......... .......... .......... 96% 32.9K 3m14s
+160200K .......... .......... .......... .......... .......... 96% 35.1K 3m13s
+160250K .......... .......... .......... .......... .......... 96% 28.1K 3m11s
+160300K .......... .......... .......... .......... .......... 96% 65.9K 3m9s
+160350K .......... .......... .......... .......... .......... 96% 32.6K 3m8s
+160400K .......... .......... .......... .......... .......... 96% 29.7K 3m6s
+160450K .......... .......... .......... .......... .......... 96% 32.4K 3m5s
+160500K .......... .......... .......... .......... .......... 96% 41.3K 3m3s
+160550K .......... .......... .......... .......... .......... 96% 33.9K 3m2s
+160600K .......... .......... .......... .......... .......... 96% 47.3K 3m0s
+160650K .......... .......... .......... .......... .......... 96% 40.5K 2m59s
+160700K .......... .......... .......... .......... .......... 96% 34.6K 2m57s
+160750K .......... .......... .......... .......... .......... 96% 35.0K 2m55s
+160800K .......... .......... .......... .......... .......... 96% 33.2K 2m54s
+160850K .......... .......... .......... .......... .......... 96% 35.3K 2m52s
+160900K .......... .......... .......... .......... .......... 96% 32.9K 2m51s
+160950K .......... .......... .......... .......... .......... 96% 48.9K 2m49s
+161000K .......... .......... .......... .......... .......... 96% 40.8K 2m48s
+161050K .......... .......... .......... .......... .......... 96% 21.2K 2m46s
+161100K .......... .......... .......... .......... .......... 96% 36.3K 2m45s
+161150K .......... .......... .......... .......... .......... 96% 42.2K 2m43s
+161200K .......... .......... .......... .......... .......... 96% 32.0K 2m42s
+161250K .......... .......... .......... .......... .......... 96% 34.2K 2m40s
+161300K .......... .......... .......... .......... .......... 96% 30.5K 2m38s
+161350K .......... .......... .......... .......... .......... 96% 37.7K 2m37s
+161400K .......... .......... .......... .......... .......... 96% 28.8K 2m35s
+161450K .......... .......... .......... .......... .......... 96% 42.1K 2m34s
+161500K .......... .......... .......... .......... .......... 97% 27.1K 2m32s
+161550K .......... .......... .......... .......... .......... 97% 35.5K 2m31s
+161600K .......... .......... .......... .......... .......... 97% 27.4K 2m29s
+161650K .......... .......... .......... .......... .......... 97% 59.3K 2m28s
+161700K .......... .......... .......... .......... .......... 97% 37.8K 2m26s
+161750K .......... .......... .......... .......... .......... 97% 25.2K 2m25s
+161800K .......... .......... .......... .......... .......... 97% 72.5K 2m23s
+161850K .......... .......... .......... .......... .......... 97% 47.0K 2m21s
+161900K .......... .......... .......... .......... .......... 97% 57.4K 2m20s
+161950K .......... .......... .......... .......... .......... 97% 42.8K 2m18s
+162000K .......... .......... .......... .......... .......... 97% 32.4K 2m17s
+162050K .......... .......... .......... .......... .......... 97%  384K 2m15s
+162100K .......... .......... .......... .......... .......... 97% 72.8K 2m13s
+162150K .......... .......... .......... .......... .......... 97% 63.0K 2m12s
+162200K .......... .......... .......... .......... .......... 97% 52.4K 2m10s
+162250K .......... .......... .......... .......... .......... 97% 59.5K 2m9s
+162300K .......... .......... .......... .......... .......... 97%  104K 2m7s
+162350K .......... .......... .......... .......... .......... 97% 23.2K 2m6s
+162400K .......... .......... .......... .......... .......... 97%  136M 2m4s
+162450K .......... .......... .......... .......... .......... 97% 78.6K 2m2s
+162500K .......... .......... .......... .......... .......... 97%  120K 2m1s
+162550K .......... .......... .......... .......... .......... 97% 25.5K 1m59s
+162600K .......... .......... .......... .......... .......... 97%  142M 1m58s
+162650K .......... .......... .......... .......... .......... 97% 97.5K 1m56s
+162700K .......... .......... .......... .......... .......... 97% 71.8K 1m54s
+162750K .......... .......... .......... .......... .......... 97% 65.1K 1m53s
+162800K .......... .......... .......... .......... .......... 97% 29.5K 1m51s
+162850K .......... .......... .......... .......... .......... 97%  473K 1m50s
+162900K .......... .......... .......... .......... .......... 97% 29.3K 1m48s
+162950K .......... .......... .......... .......... .......... 97% 67.2K 1m47s
+163000K .......... .......... .......... .......... .......... 97%  137K 1m45s
+163050K .......... .......... .......... .......... .......... 97% 28.7K 1m44s
+163100K .......... .......... .......... .......... .......... 97%  275K 1m42s
+163150K .......... .......... .......... .......... .......... 98% 54.0K 1m40s
+163200K .......... .......... .......... .......... .......... 98% 45.1K 99s
+163250K .......... .......... .......... .......... .......... 98% 94.0K 97s
+163300K .......... .......... .......... .......... .......... 98% 51.5K 96s
+163350K .......... .......... .......... .......... .......... 98% 70.1K 94s
+163400K .......... .......... .......... .......... .......... 98% 53.1K 93s
+163450K .......... .......... .......... .......... .......... 98% 62.7K 91s
+163500K .......... .......... .......... .......... .......... 98% 43.5K 90s
+163550K .......... .......... .......... .......... .......... 98% 82.3K 88s
+163600K .......... .......... .......... .......... .......... 98% 51.4K 86s
+163650K .......... .......... .......... .......... .......... 98% 43.4K 85s
+163700K .......... .......... .......... .......... .......... 98% 81.0K 83s
+163750K .......... .......... .......... .......... .......... 98% 59.9K 82s
+163800K .......... .......... .......... .......... .......... 98% 33.3K 80s
+163850K .......... .......... .......... .......... .......... 98% 51.5K 79s
+163900K .......... .......... .......... .......... .......... 98% 38.1K 77s
+163950K .......... .......... .......... .......... .......... 98% 54.8K 76s
+164000K .......... .......... .......... .......... .......... 98% 51.4K 74s
+164050K .......... .......... .......... .......... .......... 98% 39.6K 73s
+164100K .......... .......... .......... .......... .......... 98% 39.8K 71s
+164150K .......... .......... .......... .......... .......... 98% 50.5K 70s
+164200K .......... .......... .......... .......... .......... 98% 50.4K 68s
+164250K .......... .......... .......... .......... .......... 98% 40.8K 67s
+164300K .......... .......... .......... .......... .......... 98% 41.5K 65s
+164350K .......... .......... .......... .......... .......... 98% 50.5K 63s
+164400K .......... .......... .......... .......... .......... 98% 45.1K 62s
+164450K .......... .......... .......... .......... .......... 98% 49.5K 60s
+164500K .......... .......... .......... .......... .......... 98% 43.4K 59s
+164550K .......... .......... .......... .......... .......... 98% 31.3K 57s
+164600K .......... .......... .......... .......... .......... 98% 40.8K 56s
+164650K .......... .......... .......... .......... .......... 98% 56.6K 54s
+164700K .......... .......... .......... .......... .......... 98% 50.3K 53s
+164750K .......... .......... .......... .......... .......... 98% 27.8K 51s
+164800K .......... .......... .......... .......... .......... 99% 56.4K 50s
+164850K .......... .......... .......... .......... .......... 99% 32.9K 48s
+164900K .......... .......... .......... .......... .......... 99% 40.3K 47s
+164950K .......... .......... .......... .......... .......... 99% 33.5K 45s
+165000K .......... .......... .......... .......... .......... 99% 50.6K 44s
+165050K .......... .......... .......... .......... .......... 99% 33.5K 42s
+165100K .......... .......... .......... .......... .......... 99% 46.4K 41s
+165150K .......... .......... .......... .......... .......... 99% 33.2K 39s
+165200K .......... .......... .......... .......... .......... 99% 41.8K 38s
+165250K .......... .......... .......... .......... .......... 99% 32.9K 36s
+165300K .......... .......... .......... .......... .......... 99% 39.5K 35s
+165350K .......... .......... .......... .......... .......... 99% 31.6K 33s
+165400K .......... .......... .......... .......... .......... 99% 53.6K 32s
+165450K .......... .......... .......... .......... .......... 99% 50.0K 30s
+165500K .......... .......... .......... .......... .......... 99% 41.2K 29s
+165550K .......... .......... .......... .......... .......... 99% 38.5K 27s
+165600K .......... .......... .......... .......... .......... 99% 30.6K 26s
+165650K .......... .......... .......... .......... .......... 99% 56.5K 24s
+165700K .......... .......... .......... .......... .......... 99% 37.5K 23s
+165750K .......... .......... .......... .......... .......... 99% 27.0K 21s
+165800K .......... .......... .......... .......... .......... 99% 33.5K 20s
+165850K .......... .......... .......... .......... .......... 99% 32.2K 18s
+165900K .......... .......... .......... .......... .......... 99% 32.3K 17s
+165950K .......... .......... .......... .......... .......... 99% 25.7K 15s
+166000K .......... .......... .......... .......... .......... 99% 34.5K 14s
+166050K .......... .......... .......... .......... .......... 99% 35.9K 12s
+166100K .......... .......... .......... .......... .......... 99% 28.9K 11s
+166150K .......... .......... .......... .......... .......... 99% 38.5K 9s
+166200K .......... .......... .......... .......... .......... 99% 32.0K 8s
+166250K .......... .......... .......... .......... .......... 99% 38.7K 6s
+166300K .......... .......... .......... .......... .......... 99% 28.9K 5s
+166350K .......... .......... .......... .......... .......... 99% 42.4K 3s
+166400K .......... .......... .......... .......... .......... 99% 37.1K 2s
+166450K .......... .......... .......... .......... .......... 99% 31.6K 0s
+166500K ..                                                    100% 32.9K=29m57s
+
+2020-03-15 21:15:50 (33.2 KB/s) - 已保存 “cifar-10-python.tar.gz” [170498071/170498071])
+
