@@ -132,7 +132,8 @@ def load_features(var):
             train_matrix[t, c[axis]] = q.loc[j, col]
     del X_train, c, idx, col
     train_matrix = preprocess_features(train_matrix)
-    return train_matrix
+    np.save('/home/sh/anaconda3/fraud/ieee-fraud-detection/X.npy',train_matrix)
+    #return train_matrix
 
 def load_y():
     X_train = pd.read_csv(r'/home/sh/anaconda3/fraud/ieee-fraud-detection/train_graph_node.csv')[['isFraud', 'uid', 'time']]

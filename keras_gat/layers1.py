@@ -14,9 +14,10 @@ from tensorflow.keras import backend as K
 from tensorflow.keras.layers import Layer, Dropout, LeakyReLU
 import numpy as np
 import tensorflow as tf
+import gc
 
 class GraphAttention(Layer):
-    def __init__(self, F_, attn_heads=1, attn_heads_reduction='concat', 
+    def __init__(self, F_, time=26, attn_heads=1, attn_heads_reduction='concat', 
                  dropout_rate=0.5, activation='relu', use_bias=True, 
                  kernel_initializer='glorot_uniform', bias_initializer='zeros', 
                  attn_kernel_initializer='glorot_uniform', kernel_regularizer=None, 
@@ -45,6 +46,7 @@ class GraphAttention(Layer):
         if attn_heads_reduction not in {'concat', 'average'}:
             raise ValueError('Possbile reduction methods: concat, average')
             
+        self.time = time
         self.F_ = F_
         self.attn_heads = attn_heads
         self.attn_heads_reduction = attn_heads_reduction
@@ -81,10 +83,10 @@ class GraphAttention(Layer):
     def build(self, input_shape):
         assert len(input_shape) >= 2
         F = input_shape[0][-1]
-        
-        #initialize weights for each attention head
+        #for i in range(self.time):
+            #initialize weights for each attention head
         for head in range(self.attn_heads):
-            #layer kernel
+                #layer kernel
             kernel = self.add_weight(shape=(F, self.F_), 
                                      initializer = self.kernel_initializer, 
                                      regularizer = self.kernel_regularizer, 
@@ -100,7 +102,7 @@ class GraphAttention(Layer):
                                        name = 'bias_{}'.format(head))
                 self.biases.append(bias) #b in Eq.1
         
-            #Attention kernels
+                #Attention kernels
             attn_kernel_self = self.add_weight(shape=(self.F_, 1), 
                                                initializer = self.attn_kernel_initializer, 
                                                regularizer = self.attn_kernel_regularizer, 
@@ -168,49 +170,49 @@ class GraphAttention(Layer):
 
 
 #    def call(self, inputs, alpha=0.2):
-#        X = inputs[0] # Node features (t, N, F)
+#       X = inputs[0] # Node features (t, N, F)
 #        A = inputs[1] # Adjacency matrix (N, N)
-#        t = X.shape[0]
 #        N = X.shape[1]
         
 #        outputs = []
-#        for head in range(self.attn_heads):
-#            kernel = self.kernels[head] # W in the paper (F, F')
-#            attention_kernel = self.attn_kernels[head] # Attention kernel a in the paper (2F', 1)
+#        for t in range(self.time):
+#            for head in range(self.attn_heads):
+#                kernel = self.kernels[t][head] # W in the paper (F, F')
+#                attention_kernel = self.attn_kernels[t][head] # Attention kernel a in the paper (2F', 1)
             
-            #Compute feature combinations
-#            features = K.dot(X, kernel) # (t, N, F')
+                #Compute feature combinations
+#                features = K.dot(X[t], kernel) # (N, F')
             
-            #Compute feature combinations
-#            attn_for_self = K.dot(features, attention_kernel[0]) # (t, N, 1)
-#            attn_for_neighs = K.dot(features, attention_kernel[1]) # (t, N, 1)
+                #Compute feature combinations
+#                attn_for_self = K.dot(features, attention_kernel[0]) # (N, 1)
+#                attn_for_neighs = K.dot(features, attention_kernel[1]) # (N, 1)
             
-            #Attention head a(Wh_i, Wh_j) = a^T @ [[Wh_i], [Wj_j]]
-#            dense = attn_for_self + tf.transpose(attn_for_neighs, perm=[0, 2, 1]) # (t, N, N) via broadcasting
+                #Attention head a(Wh_i, Wh_j) = a^T @ [[Wh_i], [Wj_j]]
+#                dense = attn_for_self + K.transpose(attn_for_neighs) # (N, N) via broadcasting
             
-            #Add nonlinearty
-#            dense = LeakyReLU(alpha=alpha)(dense) # (t, N, N)
+                #Add nonlinearty
+#                dense = LeakyReLU(alpha=alpha)(dense) # (N, N)
             
-            #Mask values before activation
-#            mask = -10e9 * (1.0 - A) # (N, N)
-#            dense += mask # (t, N, N)
+                #Mask values before activation
+#                mask = -10e9 * (1.0 - A) # (N, N)
+#                dense += mask # (N, N)
             
-            #Apply softmax to get attention coefficients
-#            dense = K.softmax(dense) # (t, N, N)
+                #Apply softmax to get attention coefficients
+#                dense = K.softmax(dense) # (N, N)
             
-            #Apply dropout to features and attention coefficients
-#            dropout_attn = Dropout(self.dropout_rate)(dense) # (t, N, N)
-#            dropout_feat = Dropout(self.dropout_rate)(features) # (t, N, F')
+                #Apply dropout to features and attention coefficients
+#                dropout_attn = Dropout(self.dropout_rate)(dense) # (N, N)
+#                dropout_feat = Dropout(self.dropout_rate)(features) # (N, F')
             
-            #Linear combination with neighbors' features
-#            node_features = K.batch_dot(dropout_attn, dropout_feat) #(t, N, F')
+                #Linear combination with neighbors' features
+#                node_features = K.dot(dropout_attn, dropout_feat) #(N, F')
             
-#            if self.use_bias:
-#                node_features = K.bias_add(node_features, self.biases[head]) # (t, N, F')
+#                if self.use_bias:
+#                    node_features = K.bias_add(node_features, self.biases[t][head]) # (N, F')
                 
-            #Add output of attention head to final output
+                #Add output of attention head to final output
 
-#            outputs.append(node_features)
+#                outputs.append(node_features)
             
         #Aggregate the heads' output according to the reduction method
 #        if self.attn_heads_reduction == 'concat':
