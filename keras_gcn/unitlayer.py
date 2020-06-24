@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jun 22 16:32:26 2020
+Created on Wed Jun 24 11:38:08 2020
 
 @author: sh
 """
@@ -15,6 +15,9 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.regularizers import l2
 import numpy as np
 import gc
+
+import sys
+sys.path.append('/home/sh/anaconda3/fraud')
 
 from keras_gcn.layers.graph import GraphConvolution
 from keras_gcn.utils import *
@@ -33,19 +36,22 @@ l2_reg = 5e-4
 
 #Get data
 X, A = load_data()
+X = sp.csr_matrix(X[0])
 idx_train, idx_val, idx_test, train_mask = get_splits()
-N = X[0].shape[0]
-T = len(X)
-F = X[0].shape[1]
+idx_train, idx_val, idx_test = idx_train.astype(np.int32), idx_test.astype(np.int32), idx_val.astype(np.int32)
+train_mask = train_mask[0]
+train_mask = train_mask.astype(np.int32)
+N = X.shape[0]
+T = 1
+F = X.shape[1]
 F_1 = 16
 F_2 = 2
 #%%
 #Normalize X
-for i in range(T):
-    X[i] /= X[i].sum(1).reshape(-1, 1)
-    X[i][np.isnan(X[i])] = 0
-    X[i][np.isinf(X[i])] = 0
-X = X.astype(np.float16)
+X /= X.sum(1).reshape(-1, 1)
+X[np.isnan(X)] = 0
+X[np.isinf(X)] = 0
+X = X.astype(np.float32)
 gc.collect()
 #%%
 if FILTER == 'localpool':
@@ -56,9 +62,8 @@ if FILTER == 'localpool':
     A_ = preprocess_adj(A, SYM_NORM) #拉普拉斯矩阵
     support = 1
     graph = []
-    for i in range(T):
-        graph.append(X[i])
-        graph.append(A_)
+    graph.append(X)
+    graph.append(A_)
 #    G = [Input(shape=(None, None), sparse=True)]
 #    G = [Input(shape=(None,))]
     
@@ -72,9 +77,8 @@ elif FILTER == 'chebyshev':
     T_k = chebyshev_polynomial(L_scaled, MAX_DEGREE)
     support = MAX_DEGREE + 1
     graph = []
-    for i in range(T):
-        graph.append(X[i])
-        graph.append(T_k)
+    graph.append(X)
+    graph.append(T_k)
 #    G = [Input(shape=(None, None), sparse=True) for _ in range(support)]
 #    G = [Input(shape=(None,)) for _ in range(support)]
 
@@ -83,17 +87,18 @@ else:
 gc.collect()
 #%%
 y_train, y_val, y_test = mask()
+y_train, y_val, y_test = y_train[0], y_val[0], y_test[0]
 inputs = []
 outputs = []
 for i in range(T):
     s1 = 'output' + str(2*i)
     s2 = 'output' + str(2*i+1)
-    X_in = Input(shape=(F,))
+    X_in = Input(shape=(F,), dtype=np.float32)
     inputs.append(X_in)
     if FILTER == 'localpool':
-        G = [Input(shape=(None,))]
+        G = [Input(shape=(None,), dtype=np.float32)]
     else:
-        G = [Input(shape=(None,)) for _ in range(support)]
+        G = [Input(shape=(None,), dtype=np.float32) for _ in range(support)]
     inputs.extend(G)
     #Define model architecture
     H = Dropout(dropout_rate)(X_in)
@@ -114,7 +119,7 @@ Y_train_ = dict()
 loss_weight = dict()
 for i in range(T):
     s = 'graph_convolution_' + str(2*i+1)
-    Y_train_[s] = y_train[i]
+    Y_train_[s] = y_train
     loss_weight[s] = 1/27
 y_train = Y_train_
 del Y_train_
@@ -130,7 +135,7 @@ gc.collect()
 model = Model(inputs=inputs, outputs=outputs)
 
 #%%
-model.compile(loss='categorical_crossentropy', optimizer=Adam(lr=lr), loss_weight=loss_weight, weighted_metrics=['acc'])
+model.compile(loss='categorical_crossentropy', optimizer=Adam(lr=lr), weighted_metrics=['acc'])
 #%%
 #fit
 for epoch in range(1, NB_EPOCH+1):

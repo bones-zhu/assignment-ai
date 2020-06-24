@@ -27,6 +27,7 @@ def load_data():
         x.append(sp.csr_matrix(features[i]).todense())
     del features
     adj = sp.load_npz('/home/sh/anaconda3/fraud/ieee-fraud-detection/edge.npz')
+    adj = adj.astype(np.int16)
     adj = sp.coo_matrix(adj)
     return x, adj
 
@@ -37,6 +38,7 @@ def normalize_adj(adj, symmetric=True): #用度矩阵标准化连接矩阵D(-0.5
     else:
         d = sp.diags(np.power(np.array(adj.sum(1)), -1).flatten(), 0)
         a_norm = d.dot(adj).tocsr()
+    a_norm = a_norm.astype(np.float32)
         
     return a_norm
 
@@ -98,6 +100,7 @@ def rescale_laplacian(laplacian):
         largest_eigval = 2
         
     scaled_laplacian = (2. / largest_eigval) * laplacian - sp.eye(laplacian.shape[0])
+    scaled_laplacian = scaled_laplacian.astype(np.float16)
     return scaled_laplacian
 
 def chebyshev_polynomial(X, k): #   切比雪夫多项式近似，计算k阶的切比雪夫近似矩阵
@@ -107,12 +110,12 @@ def chebyshev_polynomial(X, k): #   切比雪夫多项式近似，计算k阶的�
     print('Calculating Chebyshev polynomials up to order {}...'.format(k))
     
     T_k = list()
-    T_k.append(sp.eye(X.shape[0]).tocsr())
+    T_k.append(sp.eye(X.shape[0]).astype(np.float16).tocsr())
     T_k.append(X)
     
     def chebyshev_recurrence(T_k_minus_one, T_k_minus_two, X):
         X_ = sp.csr_matrix(X, copy=True)
-        return 2 * X_.dot(T_k_minus_one) - T_k_minus_two
+        return (2 * X_.dot(T_k_minus_one) - T_k_minus_two).astype(np.float16)
     
     for i in range(2, k+1):
         T_k.append(chebyshev_recurrence(T_k[-1], T_k[-2], X))
